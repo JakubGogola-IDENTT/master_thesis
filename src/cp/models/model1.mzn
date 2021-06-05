@@ -10,7 +10,7 @@ ann: searchLetter2 = int_search(array1d(ls), first_fail, indomain_min, complete)
 ann: searchWord1 = int_search(ws, first_fail, indomain_split, complete);
 ann: searchWord2 = int_search(ws, first_fail, indomain_min, complete);
 
-ann: search = searchLetter1;
+ann: search = searchWord1;
 
 solve 
     :: search
