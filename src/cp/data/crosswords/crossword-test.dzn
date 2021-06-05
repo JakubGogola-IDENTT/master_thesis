@@ -1,0 +1,19 @@
+  /*
+   * Name: 05.01, 2 x 2
+   * 	(_ _ _)
+   * 	(_ _ _)
+   */
+
+width  = 3;
+height = 2;
+
+grid =
+[| true, true, true,
+ | true, true, true,
+|];
+
+number_of_clues = 2;
+startrow = [1,2];
+startcol = [1,1];
+down     = [false, false];
+leng     = [3,3];
