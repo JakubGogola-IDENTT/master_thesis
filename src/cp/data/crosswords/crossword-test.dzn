@@ -13,7 +13,7 @@ grid =
 |];
 
 number_of_clues = 2;
-startrow = [1,2];
-startcol = [1,1];
-down     = [false, false];
-leng     = [3,3];
+start_rows = [1,2];
+start_cols = [1,1];
+is_vertical     = [false, false];
+lens     = [3,3];

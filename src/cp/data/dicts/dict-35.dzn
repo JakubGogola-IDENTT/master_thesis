@@ -40189,34 +40189,34 @@ dict18 =
    |];
 
 words19 = 0;
-dict19 = array2d(1..0,1..19,[ a | i in 1..0]);
+dict19 = array2d(1..0,1..19,[ a | idx in 1..0]);
 
-words20 = 0; dict20 = array2d(1..0,1..20,[ a | i in 1..0]);
-words21 = 0; dict21 = array2d(1..0,1..21,[ a | i in 1..0]);
-words22 = 0; dict22 = array2d(1..0,1..22,[ a | i in 1..0]);
-words23 = 0; dict23 = array2d(1..0,1..23,[ a | i in 1..0]);
-words24 = 0; dict24 = array2d(1..0,1..24,[ a | i in 1..0]);
-words25 = 0; dict25 = array2d(1..0,1..25,[ a | i in 1..0]);
-words26 = 0; dict26 = array2d(1..0,1..26,[ a | i in 1..0]);
-words27 = 0; dict27 = array2d(1..0,1..27,[ a | i in 1..0]);
-words28 = 0; dict28 = array2d(1..0,1..28,[ a | i in 1..0]);
-words29 = 0; dict29 = array2d(1..0,1..29,[ a | i in 1..0]);
-words30 = 0; dict30 = array2d(1..0,1..30,[ a | i in 1..0]);
-words31 = 0; dict31 = array2d(1..0,1..31,[ a | i in 1..0]);
-words32 = 0; dict32 = array2d(1..0,1..32,[ a | i in 1..0]);
-words33 = 0; dict33 = array2d(1..0,1..33,[ a | i in 1..0]);
-words34 = 0; dict34 = array2d(1..0,1..34,[ a | i in 1..0]);
-words35 = 0; dict35 = array2d(1..0,1..35,[ a | i in 1..0]);
-words36 = 0; dict36 = array2d(1..0,1..36,[ a | i in 1..0]);
-words37 = 0; dict37 = array2d(1..0,1..37,[ a | i in 1..0]);
-words38 = 0; dict38 = array2d(1..0,1..38,[ a | i in 1..0]);
-words39 = 0; dict39 = array2d(1..0,1..39,[ a | i in 1..0]);
-words40 = 0; dict40 = array2d(1..0,1..40,[ a | i in 1..0]);
-words41 = 0; dict41 = array2d(1..0,1..41,[ a | i in 1..0]);
-words42 = 0; dict42 = array2d(1..0,1..42,[ a | i in 1..0]);
-words43 = 0; dict43 = array2d(1..0,1..43,[ a | i in 1..0]);
-words44 = 0; dict44 = array2d(1..0,1..44,[ a | i in 1..0]);
-words45 = 0; dict45 = array2d(1..0,1..45,[ a | i in 1..0]);
+words20 = 0; dict20 = array2d(1..0,1..20,[ a | idx in 1..0]);
+words21 = 0; dict21 = array2d(1..0,1..21,[ a | idx in 1..0]);
+words22 = 0; dict22 = array2d(1..0,1..22,[ a | idx in 1..0]);
+words23 = 0; dict23 = array2d(1..0,1..23,[ a | idx in 1..0]);
+words24 = 0; dict24 = array2d(1..0,1..24,[ a | idx in 1..0]);
+words25 = 0; dict25 = array2d(1..0,1..25,[ a | idx in 1..0]);
+words26 = 0; dict26 = array2d(1..0,1..26,[ a | idx in 1..0]);
+words27 = 0; dict27 = array2d(1..0,1..27,[ a | idx in 1..0]);
+words28 = 0; dict28 = array2d(1..0,1..28,[ a | idx in 1..0]);
+words29 = 0; dict29 = array2d(1..0,1..29,[ a | idx in 1..0]);
+words30 = 0; dict30 = array2d(1..0,1..30,[ a | idx in 1..0]);
+words31 = 0; dict31 = array2d(1..0,1..31,[ a | idx in 1..0]);
+words32 = 0; dict32 = array2d(1..0,1..32,[ a | idx in 1..0]);
+words33 = 0; dict33 = array2d(1..0,1..33,[ a | idx in 1..0]);
+words34 = 0; dict34 = array2d(1..0,1..34,[ a | idx in 1..0]);
+words35 = 0; dict35 = array2d(1..0,1..35,[ a | idx in 1..0]);
+words36 = 0; dict36 = array2d(1..0,1..36,[ a | idx in 1..0]);
+words37 = 0; dict37 = array2d(1..0,1..37,[ a | idx in 1..0]);
+words38 = 0; dict38 = array2d(1..0,1..38,[ a | idx in 1..0]);
+words39 = 0; dict39 = array2d(1..0,1..39,[ a | idx in 1..0]);
+words40 = 0; dict40 = array2d(1..0,1..40,[ a | idx in 1..0]);
+words41 = 0; dict41 = array2d(1..0,1..41,[ a | idx in 1..0]);
+words42 = 0; dict42 = array2d(1..0,1..42,[ a | idx in 1..0]);
+words43 = 0; dict43 = array2d(1..0,1..43,[ a | idx in 1..0]);
+words44 = 0; dict44 = array2d(1..0,1..44,[ a | idx in 1..0]);
+words45 = 0; dict45 = array2d(1..0,1..45,[ a | idx in 1..0]);
 
 /*
  * The original SCOWL README:
