@@ -6,7 +6,7 @@ include "../common/base.mzn";
 include "../common/predicates.mzn";
 include "../common/constraints.mzn";
 
-ann: search = int_search(array1d(ls), first_fail, indomain_split, complete);
+ann: search = int_search(array1d(ls), first_fail, indomain_min, complete);
 
 solve 
     :: search
