@@ -33,12 +33,24 @@ function parse_schema(file_content)
     for line in file_content
         cells = []
 
-        for c in line
+        filtered = filter(c -> c in "(_*)", line)
+        m = match(r"\([_\*]+\)", filtered)
+
+        if m === nothing 
+            continue
+        end
+        
+
+        for c in m.match
             if c == '*'
                 cells = append!(cells, false)
             elseif c == '_'
                 cells = append!(cells, true)
             end
+        end
+
+        if length(cells) == 0
+            continue
         end
 
         grid = push!(grid, cells)
