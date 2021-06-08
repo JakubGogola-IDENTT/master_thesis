@@ -108,7 +108,7 @@ function get_clues(grid)
         row += 1
     end
 
-        # vertical
+    # vertical
     col = 1
     while col <= width
         row = 1
