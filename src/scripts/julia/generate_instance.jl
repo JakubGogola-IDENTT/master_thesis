@@ -82,7 +82,7 @@ function get_clues(grid)
             is_vertical = append!(is_vertical, false)
             number_of_clues += 1
 
-            len = 0
+            len = -1
             next = cell
 
             while next && col <= width
@@ -116,7 +116,7 @@ function get_clues(grid)
             is_vertical = append!(is_vertical, true)
             number_of_clues += 1
     
-            len = 0
+            len = -1
             next = cell
     
             while next && row <= height
