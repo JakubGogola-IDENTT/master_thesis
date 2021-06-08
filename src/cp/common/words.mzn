@@ -109,8 +109,12 @@ int: words22;
 set of int: WORDS22 = 1..words22;
 array[WORDS22, 1..22] of LETTERS: dict22;
 
+% Words of length 23
+int: words23;
+set of int: WORDS23 = 1..words23;
+array[WORDS23, 1..23] of LETTERS: dict23;
+
 % Words longer than 22 characters. Not used in solver due to practical reasons.
-int: words23; array[int,int] of LETTERS: dict23;
 int: words24; array[int,int] of LETTERS: dict24;
 int: words25; array[int,int] of LETTERS: dict25;
 int: words26; array[int,int] of LETTERS: dict26;

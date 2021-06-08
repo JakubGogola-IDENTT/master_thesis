@@ -48,6 +48,7 @@ constraint forall(clue in CLUES)(
            elseif len = 20 then table_row(clueword, dict20, ws[clue])
            elseif len = 21 then table_row(clueword, dict21, ws[clue])
            elseif len = 22 then table_row(clueword, dict22, ws[clue])
+           elseif len = 23 then table_row(clueword, dict23, ws[clue])
            else 
               assert(len > 22, "word length too long \(len) > 22\n")
            endif
@@ -78,6 +79,7 @@ constraint forall(clue in CLUES)(
            elseif len = 20 then table_row(clueword, dict20, ws[clue])
            elseif len = 21 then table_row(clueword, dict21, ws[clue])
            elseif len = 22 then table_row(clueword, dict22, ws[clue])
+           elseif len = 23 then table_row(clueword, dict23, ws[clue])
            else
               assert(len > 22, "word length too long \(len) > 22\n")
            endif
