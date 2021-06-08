@@ -39,7 +39,6 @@ function parse_schema(file_content)
         if m === nothing 
             continue
         end
-        
 
         for c in m.match
             if c == '*'
@@ -146,7 +145,7 @@ function get_clues(grid)
     return (number_of_clues, start_rows, start_cols, is_vertical, lens)
 end
 
-function print_array(array, with_brackets = true)
+function print_array(array, with_brackets=true)
     concat = join(array, ",")
     
     if !with_brackets
@@ -193,6 +192,3 @@ open(file_name) do f
 
     generate_instance_file(grid)
 end
-
-
-
