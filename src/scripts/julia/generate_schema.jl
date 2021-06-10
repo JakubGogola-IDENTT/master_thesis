@@ -25,7 +25,7 @@ function parse_flags(args)
     return parse_args(args, s)
 end
 
-function generate_schema(rows, cols, empty_cells, ouput_dir)
+function generate_schema(rows, cols, empty_cells, output_dir)
     if empty_cells > (rows * cols) / 2
         throw(ErrorException("Empty cells can be only a half of all available cells"))
     end
@@ -59,7 +59,6 @@ function generate_schema(rows, cols, empty_cells, ouput_dir)
     end
 
     file_name = "crossword_schema_$(rows)_$(cols).txt"
-
 
     open("$(output_dir)/$(file_name)", "w") do f
         for r in 1:rows
