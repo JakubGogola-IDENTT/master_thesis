@@ -13,8 +13,6 @@ In case of given example there will be 10 clues - 5 vertical and 5 horizontal.
 
 The name of file to parse should be passed as argument when program is called in terminal:
 
-julia generate_instance.jl file_name.txt
-
 This script will output an problem instance named 'crossword_m_n_c.mzn' 
 where m and n describes size of crossword and c describes number of clues.
 """
