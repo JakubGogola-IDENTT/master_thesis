@@ -102,13 +102,18 @@ function get_clues(grid)
             is_vertical = append!(is_vertical, false)
             number_of_clues += 1
 
-            len = -1
+            len = 0
             next = cell
 
-            while next && col <= width
-                next = grid[row][col]
+            while next
                 len += 1
                 col += 1
+
+                if col > width
+                    break
+                end
+
+                next = grid[row][col]
             end
 
             lens = append!(lens, len)
@@ -136,13 +141,18 @@ function get_clues(grid)
             is_vertical = append!(is_vertical, true)
             number_of_clues += 1
     
-            len = -1
+            len = 0
             next = cell
     
-            while next && row <= height
-                next = grid[row][col]
+            while next
                 len += 1
                 row += 1
+
+                if row > height
+                    break
+                end
+
+                next = grid[row][col]
             end
     
             lens = append!(lens, len)
