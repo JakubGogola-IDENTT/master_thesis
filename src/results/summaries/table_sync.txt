@@ -1,20 +1,20 @@
 \hline Solver & Rozmiar krzyżówki & $ \mathrm{max}(f_c)  $ & Liczba kroków & Czas [$s$] & Liczba zmiennych \\ \hline 
-\multirow{5}{*}{Chuffed} & $ 5 \times 5 $ & 86 & 11 & - & - \\\cline{2-6}
+\multirow{5}{*}{\texttt{Chuffed}} & $ 5 \times 5 $ & 86 & 11 & - & - \\\cline{2-6}
   & $ 10 \times 10 $ & 256 & 8 & - & - \\\cline{2-6}
   & $ 15 \times 15 $ & 366 & 2 & - & - \\\cline{2-6}
   & $ 19 \times 19 $ & 653 & 4 & - & - \\\cline{2-6}
   & $ 23 \times 23 $ & - & - & - & - \\\hline
-\multirow{5}{*}{CPOptimizer} & $ 5 \times 5 $ & 88.0 & 20.0 & 57.97 & 10.0 \\\cline{2-6}
+\multirow{5}{*}{\texttt{CPOptimizer}} & $ 5 \times 5 $ & 88.0 & 20.0 & 57.97 & 10.0 \\\cline{2-6}
   & $ 10 \times 10 $ & 316.0 & 50.0 & 56.74 & 44.0 \\\cline{2-6}
   & $ 15 \times 15 $ & 363.0 & 3.0 & 55.98 & 84.0 \\\cline{2-6}
   & $ 19 \times 19 $ & 698.0 & 52.0 & 55.58 & 126.0 \\\cline{2-6}
   & $ 23 \times 23 $ & - & - & 51.74 & 156.0 \\\hline
-\multirow{5}{*}{Gecode} & $ 5 \times 5 $ & 72.0 & 14.0 & 58.3524 & 61.0 \\\cline{2-6}
+\multirow{5}{*}{\texttt{Gecode}} & $ 5 \times 5 $ & 72.0 & 14.0 & 58.3524 & 61.0 \\\cline{2-6}
   & $ 10 \times 10 $ & 210.0 & 21.0 & 57.0124 & 245.0 \\\cline{2-6}
   & $ 15 \times 15 $ & 385.0 & 21.0 & 55.9418 & 535.0 \\\cline{2-6}
   & $ 19 \times 19 $ & 570.0 & 18.0 & 55.6006 & 849.0 \\\cline{2-6}
   & $ 23 \times 23 $ & 842 & 9 & - & - \\\hline
-\multirow{5}{*}{OR-Tools} & $ 5 \times 5 $ & - & - & - & - \\\cline{2-6}
+\multirow{5}{*}{\texttt{OR-Tools}} & $ 5 \times 5 $ & - & - & - & - \\\cline{2-6}
   & $ 10 \times 10 $ & - & - & - & - \\\cline{2-6}
   & $ 15 \times 15 $ & - & - & - & - \\\cline{2-6}
   & $ 19 \times 19 $ & - & - & - & - \\\cline{2-6}

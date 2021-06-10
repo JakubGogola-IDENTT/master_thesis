@@ -102,7 +102,7 @@ function parse_results(results_dir, output_dir, output_file_name)
             first_col = " "
 
             if idx == 1
-                first_col = "\\multirow{5}{*}{$(solver)}"
+                first_col = "\\multirow{5}{*}{\\texttt{$(solver)}}"
             end
 
             pushfirst!(parsed_values, first_col)
