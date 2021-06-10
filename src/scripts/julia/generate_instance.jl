@@ -178,7 +178,7 @@ function generate_instance_file(grid, output_dir)
     width, height = get_size(grid)
     number_of_clues, start_rows, start_cols, is_vertical, lens = get_clues(grid)
 
-    name = "crossword_$(width)_$(height)_$(number_of_clues).dzn"
+    name = "crossword_model_$(width)_$(height).dzn"
 
     open("$(output_dir)/$(name)", "w") do f
         write(f, "width = $(width);\n")
