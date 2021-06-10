@@ -1,0 +1,20 @@
+width = 10;
+height = 10;
+
+grid = 
+[| false,true,true,true,true,true,true,true,true,false
+| true,false,true,true,true,true,true,true,false,true
+| true,true,false,true,true,true,true,false,true,true
+| true,true,true,false,true,true,false,true,true,true
+| true,true,true,true,false,false,true,true,true,true
+| true,true,true,true,false,false,true,true,true,true
+| true,true,true,false,true,true,false,true,true,true
+| true,true,false,true,true,true,true,false,true,true
+| true,false,true,true,true,true,true,true,false,true
+| false,true,true,true,true,true,true,true,true,false
+|];
+number_of_clues = 44;
+start_rows = [1,2,2,3,3,3,4,4,4,5,5,6,6,7,7,7,8,8,8,9,9,10,2,1,3,1,4,9,1,5,8,1,7,1,7,1,5,8,1,4,9,1,3,2];
+start_cols = [2,1,3,1,4,9,1,5,8,1,7,1,7,1,5,8,1,4,9,1,3,2,1,2,2,3,3,3,4,4,4,5,5,6,6,7,7,7,8,8,8,9,9,10];
+is_vertical = [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true];
+lens = [8,1,6,2,4,2,3,2,3,4,4,4,4,3,2,3,2,4,2,1,6,8,8,1,6,2,4,2,3,2,3,4,4,4,4,3,2,3,2,4,2,1,6,8];
