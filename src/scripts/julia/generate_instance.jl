@@ -19,12 +19,23 @@ This script will output an problem instance named 'crossword_m_n_c.mzn'
 where m and n describes size of crossword and c describes number of clues.
 """
 
-function parse_args(args)
-    if length(args) == 0 
-        throw(ErrorException("Missing file name"))
-    end
+using ArgParse
 
-    return args[1]
+function parse_flags(args)
+    s = ArgParseSettings()
+
+    @add_arg_table s begin
+        "--schema", "-s"
+            help = "schema of crossword"
+            arg_type = String
+            required = true
+        "--ouput-dir", "-o"
+            help = "output dir"
+            arg_type = String
+            default = "."
+    end
+     
+    return parse_args(args, s)
 end
 
 function parse_schema(file_content)   
@@ -155,13 +166,13 @@ function print_array(array, with_brackets=true)
     return "[$(concat)]"
 end
 
-function generate_instance_file(grid)
+function generate_instance_file(grid, output_dir)
     width, height = get_size(grid)
     number_of_clues, start_rows, start_cols, is_vertical, lens = get_clues(grid)
 
     name = "crossword_$(width)_$(height)_$(number_of_clues).dzn"
 
-    open(name, "w") do f
+    open("$(output_dir)/$(name)", "w") do f
         write(f, "width = $(width);\n")
         write(f, "height = $(height);\n\n")
 
@@ -184,11 +195,14 @@ function generate_instance_file(grid)
     end
 end
 
-file_name = parse_args(ARGS)
+flags = parse_flags(ARGS)
 
-open(file_name) do f
+schema_path = flags["schema"]
+output_dir = flags["ouput-dir"]
+
+open(schema_path) do f
     content = readlines(f)
     grid = parse_schema(content)
 
-    generate_instance_file(grid)
+    generate_instance_file(grid, output_dir)
 end

@@ -9,7 +9,7 @@ include "../common/constraints.mzn";
 ann: search = int_search(ws, first_fail, indomain_min, complete);
 
 solve 
-    :: search
+    % :: search
     maximize objective;
 
 %------------------------------------------------------------------------------%
