@@ -1,0 +1,294 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=225
+%%%mzn-stat: flatIntConstraints=262
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=3.07359
+%%%mzn-stat-end
+
+% *calctufa*
+% t*tahina*c
+% ah*raki*be
+% kab*la*bap
+% amah**pooh
+% mana**abba
+% add*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 20, 16654, 3, 3461, 11, 489, 66, 85, 108, 3310, 2572, 5, 11, 54, 2, 58, 1694, 10, 1, 16876, 16349, 31603, 3, 7368, 8, 268, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 182;
+----------
+% *calctufa*
+% t*tahina*c
+% ah*raki*be
+% kaf*la*bap
+% amah**pooh
+% mana**abba
+% add*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 20, 16654, 3, 3461, 11, 491, 66, 85, 108, 3310, 2572, 5, 11, 54, 2, 58, 1694, 10, 1, 16876, 16349, 31603, 3, 7368, 8, 1270, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 183;
+----------
+% *calctufa*
+% t*tahina*c
+% ah*raki*be
+% kay*la*bap
+% amah**pooh
+% mama**abba
+% ads*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 20, 16654, 3, 3461, 11, 497, 66, 85, 108, 3310, 2570, 5, 13, 54, 2, 58, 1694, 10, 1, 16876, 16349, 31603, 3, 7368, 8, 4775, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 184;
+----------
+% *calctufa*
+% t*tahina*c
+% ah*raki*be
+% kaf*la*bap
+% amah**pooh
+% maya**abba
+% ads*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 20, 16654, 3, 3461, 11, 491, 66, 85, 108, 3310, 2609, 5, 13, 54, 2, 58, 1694, 10, 1, 16876, 16349, 31603, 3, 7368, 8, 1291, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 185;
+----------
+% *calctufa*
+% t*tahina*c
+% am*raki*be
+% kip*la*bap
+% amah**pooh
+% mowa**abba
+% ask*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 20, 16654, 5, 3461, 11, 511, 66, 85, 108, 3310, 2771, 5, 63, 54, 2, 58, 1694, 10, 1, 16876, 16349, 31603, 3, 10353, 8, 3155, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 186;
+----------
+% *calctufa*
+% j*tahina*c
+% ah*raki*be
+% raj*la*bap
+% amah**pooh
+% rata**abba
+% ado*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 10, 16654, 3, 3461, 11, 814, 66, 85, 108, 3310, 3478, 5, 12, 54, 2, 58, 1694, 10, 1, 16876, 16349, 16107, 3, 7368, 8, 2033, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 187;
+----------
+% *calctufa*
+% j*tahina*c
+% ah*raki*be
+% raj*la*bap
+% amah**pooh
+% raga**abba
+% ads*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 10, 16654, 3, 3461, 11, 814, 66, 85, 108, 3310, 3448, 5, 13, 54, 2, 58, 1694, 10, 1, 16876, 16349, 16107, 3, 7368, 8, 2017, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 188;
+----------
+% *calctufa*
+% j*tahina*c
+% ah*raki*be
+% raj*la*bap
+% amah**pooh
+% raya**abba
+% ads*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 10, 16654, 3, 3461, 11, 814, 66, 85, 108, 3310, 3488, 5, 13, 54, 2, 58, 1694, 10, 1, 16876, 16349, 16107, 3, 7368, 8, 2038, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 190;
+----------
+% *calctufa*
+% j*tahina*c
+% ah*raki*be
+% ref*la*bap
+% amah**pooh
+% riza**abba
+% ane*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 10, 16654, 3, 3461, 11, 826, 66, 85, 108, 3310, 3576, 5, 45, 54, 2, 58, 1694, 10, 1, 16876, 16349, 16107, 3, 7562, 8, 1292, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 191;
+----------
+% *calctufa*
+% j*tahina*c
+% ah*raki*be
+% reh*la*bap
+% amah**pooh
+% riza**abba
+% any*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 10, 16654, 3, 3461, 11, 827, 66, 85, 108, 3310, 3576, 5, 49, 54, 2, 58, 1694, 10, 1, 16876, 16349, 16107, 3, 7562, 8, 1775, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 194;
+----------
+% *calctufa*
+% k*tahina*c
+% as*raki*be
+% zep*la*bap
+% amah**pooh
+% tela**abba
+% zip*ja*aal
+% ka*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 11, 16654, 7, 3461, 11, 1143, 66, 85, 108, 3310, 4191, 5, 1147, 54, 2, 58, 1694, 10, 1, 16876, 16349, 16409, 3, 14808, 8, 3123, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 195;
+----------
+% *calctufa*
+% z*tahina*c
+% eh*raki*be
+% nab*la*bap
+% amah**pooh
+% izba**abba
+% day*ja*aal
+% ah*guls*ba
+% s*tebbad*d
+% *kalaazar*
+Words weights = [4413, 26, 16654, 26, 3461, 11, 637, 66, 85, 108, 3310, 2012, 5, 181, 54, 2, 3, 1694, 10, 19, 16876, 16349, 36430, 3, 7384, 8, 245, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 197;
+----------
+% *calctufa*
+% b*tahina*c
+% es*raki*be
+% zip*la*bap
+% amah**pooh
+% zila**abba
+% zap*ja*aal
+% en*guls*ba
+% s*tebbad*d
+% *kalaazar*
+Words weights = [4413, 2, 16654, 30, 3461, 11, 1147, 66, 85, 108, 3310, 4895, 5, 1134, 54, 2, 28, 1694, 10, 19, 16876, 16349, 2915, 3, 15225, 8, 3123, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 198;
+----------
+% *calctufa*
+% b*tahina*c
+% eh*raki*be
+% zos*la*bap
+% amah**pooh
+% zila**abba
+% zep*ja*aal
+% er*guls*ba
+% s*tebbad*d
+% *kalaazar*
+Words weights = [4413, 2, 16654, 26, 3461, 11, 1152, 66, 85, 108, 3310, 4895, 5, 1143, 54, 2, 29, 1694, 10, 19, 16876, 16349, 2915, 3, 7764, 8, 3693, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 199;
+----------
+% *calctufa*
+% b*tahina*c
+% em*raki*be
+% zap*la*bap
+% amah**pooh
+% zila**abba
+% zep*ja*aal
+% es*guls*ba
+% s*tebbad*d
+% *kalaazar*
+Words weights = [4413, 2, 16654, 27, 3461, 11, 1134, 66, 85, 108, 3310, 4895, 5, 1143, 54, 2, 30, 1694, 10, 19, 16876, 16349, 2915, 3, 9921, 8, 3123, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 200;
+----------
+% *calctufa*
+% b*tahina*c
+% em*raki*be
+% zek*la*bap
+% amah**pooh
+% zona**abba
+% zig*ja*aal
+% er*guls*ba
+% s*tebbad*d
+% *kalaazar*
+Words weights = [4413, 2, 16654, 27, 3461, 11, 1140, 66, 85, 108, 3310, 4911, 5, 1145, 54, 2, 29, 1694, 10, 19, 16876, 16349, 2915, 3, 10186, 8, 2140, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 201;
+----------
+% *calctufa*
+% k*tahina*c
+% am*raki*be
+% ziz*la*bap
+% amah**pooh
+% tepa**abba
+% zos*ja*aal
+% ks*guls*ba
+% a*tebbad*d
+% *kalaazar*
+Words weights = [4413, 11, 16654, 5, 3461, 11, 1149, 66, 85, 108, 3310, 4204, 5, 1152, 54, 2, 63, 1694, 10, 1, 16876, 16349, 16409, 3, 10349, 8, 4874, 113, 533, 40, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 204;
+----------
+% *calctufa*
+% j*tahina*c
+% ah*raki*be
+% raj*la*bap
+% oyez**pooh
+% vera**abba
+% irk*ja*aal
+% zs*guls*ba
+% e*tebbad*d
+% *kalaazar*
+Words weights = [4413, 10, 16654, 3, 3461, 11, 814, 66, 85, 3101, 3310, 4518, 5, 458, 54, 2, 140, 1694, 10, 5, 16876, 16349, 16114, 3, 7482, 8, 2051, 113, 533, 138, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 205;
+----------
+% *calctufa*
+% p*tahina*c
+% ag*raki*be
+% zap*la*bap
+% azym**pooh
+% zoea**abba
+% zos*ja*aal
+% es*guls*ba
+% s*tebbad*d
+% *kalaazar*
+Words weights = [4413, 16, 16654, 2, 3461, 11, 1134, 66, 85, 239, 3310, 4909, 5, 1152, 54, 2, 30, 1694, 10, 19, 16876, 16349, 22246, 3, 6623, 8, 3413, 113, 533, 73, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 206;
+----------
+% *calctufa*
+% p*tahina*c
+% ah*raki*be
+% zap*la*bap
+% azon**pooh
+% zila**abba
+% zek*ja*aal
+% er*guls*ba
+% s*tebbad*d
+% *kalaazar*
+Words weights = [4413, 16, 16654, 3, 3461, 11, 1134, 66, 85, 238, 3310, 4895, 5, 1140, 54, 2, 29, 1694, 10, 19, 16876, 16349, 22246, 3, 7490, 8, 3292, 113, 533, 81, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 207;
+----------
+% *calctufa*
+% p*tahina*c
+% if*raki*be
+% zap*la*bap
+% zerk**pooh
+% anoa**abba
+% zas*ja*aal
+% zs*guls*ba
+% y*tebbad*d
+% *kalaazar*
+Words weights = [4413, 16, 16654, 49, 3461, 11, 1134, 66, 85, 4887, 3310, 137, 5, 1135, 54, 2, 140, 1694, 10, 25, 16876, 16349, 23031, 3, 5638, 8, 3358, 113, 533, 58, 344, 627, 2097, 4249, 83, 1014, 99, 877, 33, 409, 17, 1, 1209, 5075];
+objective = 210;
+----------
+%%%mzn-stat: initTime=0.302873
+%%%mzn-stat: solveTime=57.0124
+%%%mzn-stat: solutions=21
+%%%mzn-stat: variables=245
+%%%mzn-stat: propagators=242
+%%%mzn-stat: propagations=16303315
+%%%mzn-stat: nodes=303363
+%%%mzn-stat: failures=151642
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=64
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=21
+%%%mzn-stat-end

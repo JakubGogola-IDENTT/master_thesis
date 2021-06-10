@@ -1,0 +1,1531 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=709
+%%%mzn-stat: flatIntConstraints=881
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=4.51034
+%%%mzn-stat-end
+
+%%%mzn-stat: initTime=2.6
+%%%mzn-stat: variables=126
+%%%mzn-stat: propagators=882
+%%%mzn-stat: objectiveBound=inf
+%%%mzn-stat: peakMem=71
+%%%mzn-stat-end
+%%%mzn-stat: nodes=113
+%%%mzn-stat: solveTime=4.06
+%%%mzn-stat: objective=521
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=19
+%%%mzn-stat: peakMem=83
+%%%mzn-stat-end
+% deev**aba*pyic*alae
+% urge*arar*homo*carl
+% riel*ceas*osar*oafs
+% acrobat*eon*gnar***
+% ***cantankerousness
+% lucent*foamy**heapy
+% amu*chai*seal**drab
+% bibb*area**lari*dso
+% rail**elvan*dada***
+% accommodativenesses
+% ***baal*leben**alan
+% abb*aced**sled*page
+% bald**saga*adaw*ela
+% brava**damar*ceased
+% abdominoplasties***
+% ***raca*lah*atlases
+% gaen*ecce*idle*naam
+% abri*rhos*nils*ague
+% boak*segs*gey**sese
+Words weights = [893, 4, 3415, 77, 4464, 157, 1871, 588, 3542, 608, 3069, 2960, 206, 257, 1609, 244, 9718, 3347, 4183, 42, 626, 3739, 1047, 346, 164, 2322, 213, 3456, 2849, 831, 1, 240, 5230, 78, 5, 16, 3895, 3112, 259, 3678, 28, 243, 1213, 2227, 2762, 1, 3440, 530, 1368, 1481, 1132, 1960, 2818, 12, 3531, 2893, 52, 405, 3758, 348, 3782, 1100, 5095, 5, 330, 1202, 10115, 277, 6, 1153, 2125, 383, 258, 18459, 399, 7608, 267, 580, 39, 114, 581, 4480, 458, 1136, 6178, 79, 229, 832, 150, 802, 208, 10066, 3006, 66, 117, 18470, 2882, 1, 1125, 3663, 18452, 191, 4518, 13697, 9442, 1977, 816, 6064, 62, 444, 4646, 192, 186, 815, 525, 1117, 8657, 3679, 56, 4002, 2768, 1126, 249, 4095, 8793, 3915];
+objective = 521;
+----------
+%%%mzn-stat: nodes=230
+%%%mzn-stat: solveTime=4.3
+%%%mzn-stat: objective=531
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=39
+%%%mzn-stat: peakMem=83
+%%%mzn-stat-end
+% bawd**tab*moop*asap
+% aloe*sale*abri*bale
+% lamb*ares*rant*yups
+% debunks*opt*ions***
+% ***resistlessnesses
+% spirea*esile**kalam
+% hum*mura*ment**lase
+% ajar*lehr**arfs*gee
+% raga**woods*alow***
+% phosphoglucomutases
+% ***hoer*loave**shri
+% tsk*ords**will*tegs
+% alar**shay*blur*wot
+% topee**igloo*toasts
+% headmistressship***
+% ***buat*amp*kentias
+% paco*mirv*roer*orgy
+% shun*brei*ebon*teen
+% tate*spic*yos**esse
+Words weights = [296, 938, 2747, 186, 101, 3691, 12, 260, 2310, 167, 3471, 4867, 6303, 717, 1993, 2198, 15922, 2948, 4804, 435, 2798, 2639, 2326, 71, 2364, 170, 343, 3448, 10762, 102, 326, 1853, 5399, 3819, 989, 3059, 4703, 4187, 80, 3799, 404, 1090, 9828, 4503, 17282, 937, 495, 41, 13323, 3105, 2695, 3589, 3063, 3821, 480, 1130, 4181, 4157, 4011, 1125, 1216, 259, 8408, 4158, 794, 77, 7342, 3904, 20, 4734, 4518, 2144, 167, 4191, 3476, 20570, 2859, 783, 253, 21896, 399, 4479, 9493, 21246, 9162, 35, 14717, 3809, 828, 1542, 3599, 426, 3269, 221, 4826, 14999, 3726, 11566, 683, 3770, 11657, 686, 6615, 26445, 8616, 7033, 307, 14651, 650, 916, 3592, 107, 4624, 691, 873, 3889, 8437, 1996, 37, 1121, 2927, 43, 761, 3915, 8576, 4102];
+objective = 531;
+----------
+%%%mzn-stat: nodes=752
+%%%mzn-stat: solveTime=5.66
+%%%mzn-stat: objective=550
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=252
+%%%mzn-stat: peakMem=83
+%%%mzn-stat-end
+% dong**som*rusk*bush
+% arar*nipa*egma*evoe
+% tapu*inti*mhos*lavs
+% alength*dso*chal***
+% ***triskaidekaphobe
+% grison*indew**toker
+% ram*gowd*alef**parr
+% ayah*lauf**rukh*yes
+% magi**bloop*spay***
+% phosphatidylcholine
+% ***naoi*danio**knag
+% ans*pine**enuf*euge
+% lath**sila*eses*ras
+% aloof**douma*detest
+% parliamentarians***
+% ***meta*gor*praetor
+% unai*ofay*impi*taxa
+% menu*midi*shoe*stet
+% stem*sass*hon**esne
+Words weights = [1003, 912, 3659, 533, 157, 2897, 1156, 1233, 4146, 1991, 2659, 2338, 536, 213, 627, 2582, 7112, 4546, 9790, 815, 1652, 88, 3140, 232, 2335, 3644, 1112, 2554, 1037, 4004, 323, 2836, 2237, 2232, 46, 3239, 1190, 1224, 2331, 3839, 1213, 818, 285, 2576, 4395, 1795, 2651, 364, 19323, 4440, 2991, 1979, 4168, 2640, 2666, 3813, 4033, 4030, 3712, 422, 1214, 863, 3900, 79, 1013, 3053, 7603, 2831, 652, 2839, 4518, 4040, 45, 7169, 1839, 11861, 1673, 746, 299, 16600, 421, 547, 8560, 28263, 5599, 717, 8828, 1159, 13, 9869, 1399, 14460, 3830, 689, 207, 20882, 3417, 9995, 1006, 1234, 9479, 601, 8760, 9899, 4591, 4838, 521, 8903, 51, 388, 3770, 2154, 4827, 17646, 1029, 3007, 4581, 4159, 918, 331, 6186, 3094, 400, 1208, 2809, 3479];
+objective = 550;
+----------
+%%%mzn-stat: nodes=1626
+%%%mzn-stat: solveTime=7.54
+%%%mzn-stat: objective=577
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=596
+%%%mzn-stat: peakMem=83
+%%%mzn-stat-end
+% wasm**mow*numb*hoho
+% arco*moxa*alae*okas
+% dern*yoof*rums*mese
+% daygirl*fig*boom***
+% ***stratificational
+% prutah*refly**scuba
+% eon*size*yeas**knot
+% aahs*coma**nott*ssh
+% crip**nandu*cauk***
+% hypersusceptibility
+% ***kail*evohe**inia
+% tyg*wrap**nett*kang
+% alls**saul*eyes*rei
+% leone**cluck*doumas
+% immunodepression***
+% ***deke*aka*eulogia
+% nogg*anan*stem*wali
+% tree*pili*ewks*emir
+% held*imam*dos**dean
+Words weights = [4622, 626, 2950, 1857, 161, 2773, 77, 3006, 917, 4844, 3648, 2648, 6233, 300, 440, 2342, 12842, 7686, 8255, 257, 3866, 4796, 2240, 1, 723, 2936, 924, 782, 6209, 601, 177, 2128, 2986, 1985, 1001, 4754, 2875, 2140, 95, 3715, 1248, 828, 5270, 1825, 4781, 1065, 899, 31, 8450, 2911, 124, 4030, 4597, 4346, 3234, 1236, 1178, 1791, 1976, 209, 880, 4576, 6833, 4130, 672, 164, 7865, 4826, 721, 3730, 10156, 1602, 344, 10525, 4008, 23741, 2005, 820, 255, 16262, 898, 6529, 5993, 29427, 2358, 737, 17521, 3103, 33, 18747, 126, 27013, 1963, 185, 2525, 16343, 4456, 2762, 1010, 822, 17037, 999, 5641, 23774, 8293, 879, 938, 25620, 701, 992, 3970, 11876, 2231, 18059, 703, 2951, 4540, 1498, 390, 11, 9742, 1971, 725, 2331, 10845, 65];
+objective = 577;
+----------
+%%%mzn-stat: nodes=3671
+%%%mzn-stat: solveTime=10.16
+%%%mzn-stat: objective=579
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=1395
+%%%mzn-stat: peakMem=84
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*deer**kirn
+% bima*tomb**toms*seg
+% joey**abacs*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% sel*shew**sang*odso
+% trig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grow*ens*aconite
+% jari*rein*hech*eorl
+% azan*merc*eche*atom
+% boyg*sley*rue**sags
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 890, 2221, 362, 4301, 4303, 881, 2079, 6, 4292, 215, 2900, 5565, 657, 883, 3805, 3701, 2989, 4352, 828, 1066, 64, 6623, 4597, 17836, 1851, 1676, 256, 191, 2027, 3517, 1782, 1194, 237, 2642, 1134, 198, 467, 3898, 855, 3681, 299, 8042, 4039, 463, 1135, 4563, 1209, 78, 128, 3052, 2414, 822, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1973, 3801, 26138, 605, 69, 19381, 4590, 457, 4304, 240, 1125, 3506, 147, 2460, 12654, 3829, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 620, 10678, 783, 894, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4358, 907, 4776, 10943, 1168];
+objective = 579;
+----------
+%%%mzn-stat: nodes=13539
+%%%mzn-stat: solveTime=40.85
+%%%mzn-stat: objective=581
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5783
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toms*seg
+% joey**abacs*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% sel*shew**sang*odso
+% trig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grow*ens*aconite
+% jari*rein*hech*eorl
+% azan*merc*eche*atom
+% boyg*sley*rue**sags
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4303, 881, 2079, 6, 4292, 215, 2900, 5565, 657, 883, 3805, 3701, 2989, 4352, 828, 1066, 64, 6623, 4597, 17836, 1851, 1676, 256, 191, 2027, 3517, 1782, 1194, 237, 2642, 1134, 198, 467, 3898, 855, 3681, 299, 8042, 4039, 463, 1135, 4563, 1209, 78, 128, 3052, 2414, 822, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1973, 3801, 26138, 605, 69, 19381, 4590, 457, 4304, 240, 1125, 3507, 147, 2460, 12654, 3829, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 620, 10678, 783, 894, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4358, 907, 4776, 10943, 1168];
+objective = 581;
+----------
+%%%mzn-stat: nodes=13839
+%%%mzn-stat: solveTime=41.57
+%%%mzn-stat: objective=584
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5890
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toph*seg
+% joey**abacs*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% sel*shew**sang*odso
+% trig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grow*ens*aconite
+% jari*rein*hech*eorl
+% azan*merc*eche*atom
+% boyg*sley*rue**sags
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4315, 881, 2079, 6, 4292, 215, 2900, 5565, 657, 883, 3805, 3701, 2989, 4352, 828, 1066, 64, 6623, 4597, 17836, 1851, 1676, 256, 191, 2027, 3517, 1782, 1194, 237, 2642, 1134, 198, 467, 3898, 855, 3681, 299, 8042, 4039, 463, 1135, 4563, 1209, 78, 128, 3052, 2414, 822, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1973, 3801, 26138, 605, 69, 19381, 4590, 457, 4304, 240, 1125, 3507, 147, 2460, 12654, 3829, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4358, 907, 4776, 10943, 1168];
+objective = 584;
+----------
+%%%mzn-stat: nodes=13897
+%%%mzn-stat: solveTime=41.97
+%%%mzn-stat: objective=585
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5899
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toph*seg
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% sel*shew**sang*odso
+% trig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grow*ens*aconite
+% jari*rein*hech*eorl
+% azan*merc*eche*atom
+% boyg*sley*rue**sags
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4315, 881, 2079, 7, 4292, 215, 2900, 5565, 657, 883, 3805, 3701, 2989, 4352, 828, 1066, 64, 6623, 4597, 17836, 1851, 1676, 256, 191, 2027, 3517, 1782, 1194, 237, 2642, 1134, 198, 467, 3898, 855, 3681, 299, 8042, 4039, 463, 1135, 4563, 1209, 78, 128, 3052, 2414, 822, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1973, 3801, 26138, 605, 69, 19381, 4590, 457, 4304, 240, 1125, 3507, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4358, 907, 4776, 10943, 1168];
+objective = 585;
+----------
+%%%mzn-stat: nodes=13911
+%%%mzn-stat: solveTime=42.11
+%%%mzn-stat: objective=587
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5901
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toph*seg
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% sel*shew**sang*odso
+% trig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grow*ens*aconite
+% jari*rein*hech*eorl
+% azan*merc*eche*atom
+% boyg*sley*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4315, 881, 2079, 7, 4292, 215, 2900, 5565, 657, 883, 3805, 3701, 2989, 4352, 828, 1066, 64, 6623, 4597, 17836, 1851, 1676, 256, 191, 2027, 3517, 1782, 1194, 237, 2642, 1134, 198, 467, 3898, 855, 3718, 299, 8042, 4039, 463, 1135, 4563, 1209, 78, 128, 3052, 2414, 822, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1973, 3801, 26138, 605, 69, 19381, 4590, 457, 4304, 240, 1125, 3507, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4361, 907, 4776, 10943, 1168];
+objective = 587;
+----------
+%%%mzn-stat: nodes=14005
+%%%mzn-stat: solveTime=42.4
+%%%mzn-stat: objective=589
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5936
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toph*seg
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% sel*shew**sang*odso
+% trig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grow*ens*aconite
+% koji*rein*hech*eorl
+% axon*merc*eche*atom
+% boyg*sley*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4315, 881, 2079, 7, 4292, 215, 2900, 5565, 657, 883, 3805, 3701, 2989, 4352, 828, 1066, 64, 6623, 4597, 17836, 1851, 1676, 256, 191, 2253, 3517, 1782, 1194, 231, 2642, 1134, 198, 467, 3898, 855, 3718, 299, 8042, 4039, 489, 1135, 4563, 1209, 737, 128, 3052, 2414, 484, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1973, 3801, 26138, 605, 69, 19381, 4590, 457, 4304, 240, 1125, 3507, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4361, 907, 4776, 10943, 1168];
+objective = 589;
+----------
+%%%mzn-stat: nodes=14028
+%%%mzn-stat: solveTime=42.67
+%%%mzn-stat: objective=592
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5940
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toph*seg
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% sel*shew**sang*odso
+% trig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grab*ens*aconite
+% koji*foon*hech*eorl
+% axon*fisc*eche*atom
+% boyg*sley*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4315, 881, 2079, 7, 4292, 215, 2900, 5565, 657, 883, 3805, 3701, 2989, 4352, 828, 1066, 64, 6623, 4597, 17836, 1851, 1657, 256, 191, 2253, 1410, 1782, 1194, 231, 1353, 1134, 198, 467, 3898, 855, 3718, 299, 8042, 4039, 489, 1135, 4563, 1209, 737, 128, 3052, 2414, 484, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1422, 3801, 26138, 33, 69, 19381, 4590, 725, 4304, 240, 1125, 3507, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4361, 907, 4776, 10943, 1168];
+objective = 592;
+----------
+%%%mzn-stat: nodes=14093
+%%%mzn-stat: solveTime=43.04
+%%%mzn-stat: objective=595
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5943
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*ure*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toph*seg
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grab*ens*aconite
+% koji*foon*hech*eorl
+% axon*fisc*eche*atom
+% boyg*sley*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1020, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4315, 881, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 1657, 256, 191, 2253, 1410, 1782, 1194, 231, 1353, 1134, 198, 467, 3898, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1422, 3801, 26138, 33, 69, 19381, 4590, 725, 4304, 240, 1125, 3507, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4361, 907, 4776, 10943, 1168];
+objective = 595;
+----------
+%%%mzn-stat: nodes=14095
+%%%mzn-stat: solveTime=43.06
+%%%mzn-stat: objective=599
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5944
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kirn
+% bima*tomb**toph*seg
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grab*ens*aconite
+% koji*foon*hech*eorl
+% axon*fisc*eche*atom
+% boyg*sley*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2221, 362, 4301, 4315, 881, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 1657, 256, 191, 2253, 1410, 1782, 1194, 231, 1353, 1134, 198, 467, 3898, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1422, 3801, 26138, 33, 69, 19381, 4590, 725, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2377, 5168, 4361, 907, 4776, 10943, 1168];
+objective = 599;
+----------
+%%%mzn-stat: nodes=14109
+%%%mzn-stat: solveTime=43.17
+%%%mzn-stat: objective=602
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5948
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**toph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grab*ens*aconite
+% koji*foon*hech*eorl
+% axon*fisc*eche*atom
+% boyg*sley*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 4315, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 1657, 256, 191, 2253, 1410, 1782, 1194, 231, 1353, 1134, 198, 467, 3898, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1422, 3801, 26138, 33, 69, 19381, 4590, 725, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2373, 5168, 4361, 907, 4772, 10943, 1168];
+objective = 602;
+----------
+%%%mzn-stat: nodes=14146
+%%%mzn-stat: solveTime=43.4
+%%%mzn-stat: objective=604
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5954
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**toph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grab*ens*aconite
+% koji*linn*hech*eorl
+% axon*odic*eche*atom
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 4315, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 1657, 256, 191, 2253, 2420, 1782, 1194, 231, 2987, 1134, 198, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 661, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2622, 14716, 231, 1360, 21607, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2373, 5168, 4361, 907, 4772, 10943, 1168];
+objective = 604;
+----------
+%%%mzn-stat: nodes=14151
+%%%mzn-stat: solveTime=43.49
+%%%mzn-stat: objective=608
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5955
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***grab*ens*aconite
+% koji*linn*hech*eorl
+% axon*odic*eche*atom
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 1657, 256, 191, 2253, 2420, 1782, 1194, 231, 2987, 1134, 198, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10610, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 661, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2373, 5168, 4361, 907, 4772, 10943, 1168];
+objective = 608;
+----------
+%%%mzn-stat: nodes=14159
+%%%mzn-stat: solveTime=43.63
+%%%mzn-stat: objective=611
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5956
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urns
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*linn*hech*eorl
+% axon*odic*eche*atom
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4466, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2420, 1782, 1194, 231, 2987, 1134, 198, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 661, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 669, 2373, 5168, 4361, 907, 4772, 10943, 1168];
+objective = 611;
+----------
+%%%mzn-stat: nodes=14169
+%%%mzn-stat: solveTime=43.73
+%%%mzn-stat: objective=613
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5957
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*linn*hech*eorl
+% axon*odic*eche*atom
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2420, 1782, 1194, 231, 2987, 1134, 198, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 661, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1168];
+objective = 613;
+----------
+%%%mzn-stat: nodes=14169
+%%%mzn-stat: solveTime=43.75
+%%%mzn-stat: objective=615
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5958
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*linn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2420, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 661, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 615;
+----------
+%%%mzn-stat: nodes=14171
+%%%mzn-stat: solveTime=43.77
+%%%mzn-stat: objective=617
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5959
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**sang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 3701, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 308, 2460, 12654, 4238, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 617;
+----------
+%%%mzn-stat: nodes=14173
+%%%mzn-stat: solveTime=43.83
+%%%mzn-stat: objective=620
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5961
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abaft*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**hang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 7, 4292, 215, 2900, 5565, 657, 73, 3805, 1748, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 308, 2460, 12654, 4236, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 620;
+----------
+%%%mzn-stat: nodes=14256
+%%%mzn-stat: solveTime=44.03
+%%%mzn-stat: objective=621
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5995
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abash*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**kang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 11, 4292, 215, 2900, 5565, 657, 73, 3805, 2140, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 906, 2460, 12654, 1819, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 621;
+----------
+%%%mzn-stat: nodes=14257
+%%%mzn-stat: solveTime=44.1
+%%%mzn-stat: objective=622
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=5996
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% acne*elve*nous*peon
+% whet*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abask*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**kang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 23, 1173, 2939, 3194, 4678, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 12, 4292, 215, 2900, 5565, 657, 73, 3805, 2140, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 128, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 906, 2460, 12654, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 622;
+----------
+%%%mzn-stat: nodes=14866
+%%%mzn-stat: solveTime=45.11
+%%%mzn-stat: objective=625
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6231
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*nous*peon
+% what*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abask*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% awl*shew**kang*odso
+% taig**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2939, 3194, 4675, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 12, 4292, 215, 2900, 5565, 657, 73, 3805, 2140, 2989, 4118, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 4621, 737, 53, 3052, 2414, 484, 10255, 234, 10615, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 906, 2460, 12654, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 625;
+----------
+%%%mzn-stat: nodes=14879
+%%%mzn-stat: solveTime=45.25
+%%%mzn-stat: objective=627
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6233
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*nous*peon
+% what*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abask*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% alp*shew**kang*odso
+% took**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2939, 3194, 4675, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 12, 4292, 215, 2900, 5565, 657, 37, 3805, 2140, 2989, 4309, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 2484, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 906, 2460, 12654, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 627;
+----------
+%%%mzn-stat: nodes=14881
+%%%mzn-stat: solveTime=45.3
+%%%mzn-stat: objective=629
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6234
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*nous*peon
+% what*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abask*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% amp*shew**kang*odso
+% took**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2939, 3194, 4675, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 12, 4292, 215, 2900, 5565, 657, 41, 3805, 2140, 2989, 4309, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 906, 2460, 12654, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 785, 2373, 5168, 4361, 907, 4772, 10943, 1166];
+objective = 629;
+----------
+%%%mzn-stat: nodes=14920
+%%%mzn-stat: solveTime=45.68
+%%%mzn-stat: objective=633
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6250
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*nous*peak
+% what*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abask*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% amp*shew**kang*odso
+% took**daal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2939, 3161, 4675, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 12, 4292, 215, 2900, 5565, 657, 41, 3805, 2140, 2989, 4309, 828, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4590, 610, 4304, 240, 1125, 2162, 906, 2460, 12654, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 749, 2373, 5168, 4361, 904, 4772, 10943, 1166];
+objective = 633;
+----------
+%%%mzn-stat: nodes=14921
+%%%mzn-stat: solveTime=45.75
+%%%mzn-stat: objective=636
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6251
+%%%mzn-stat: peakMem=85
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*nous*peak
+% what*myal*vars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abask*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% amp*shew**kang*odso
+% took**dhal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2939, 3161, 4675, 2813, 4495, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 12, 4292, 215, 2900, 5565, 657, 41, 3805, 2140, 2989, 4309, 928, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 906, 2460, 12654, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 749, 2373, 5168, 4361, 904, 4772, 10943, 1166];
+objective = 636;
+----------
+%%%mzn-stat: nodes=15185
+%%%mzn-stat: solveTime=46.3
+%%%mzn-stat: objective=637
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6357
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*peak
+% what*myal*mars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**abask*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% amp*shew**kang*odso
+% took**dhal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3161, 4675, 2813, 2587, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 12, 4292, 215, 2900, 5565, 657, 41, 3805, 2140, 2989, 4309, 928, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 906, 2460, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 749, 2373, 5168, 4361, 904, 4772, 10943, 1166];
+objective = 637;
+----------
+%%%mzn-stat: nodes=15185
+%%%mzn-stat: solveTime=46.35
+%%%mzn-stat: objective=639
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6358
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*peak
+% what*myal*mars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% amp*shew**kang*odso
+% took**dhal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*eorl
+% axon*odic*eche*atok
+% boyg*sexy*rue**saws
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3161, 4675, 2813, 2587, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4292, 215, 2900, 5565, 657, 41, 3805, 2140, 2989, 4309, 928, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1194, 231, 2987, 1134, 197, 467, 3790, 855, 3718, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2460, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1994, 749, 2373, 5168, 4361, 904, 4772, 10943, 1166];
+objective = 639;
+----------
+%%%mzn-stat: nodes=15200
+%%%mzn-stat: solveTime=46.46
+%%%mzn-stat: objective=641
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6359
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*peak
+% what*myal*mars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*toit***
+% individualistically
+% ***nisi*lycea**ciao
+% amp*shew**kang*odso
+% took**dhal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*enow
+% axon*odic*eche*atok
+% boyg*sexy*rue**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3161, 4675, 2813, 2587, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4292, 215, 2900, 5565, 657, 41, 3805, 2140, 2989, 4309, 928, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1189, 231, 2987, 1134, 197, 467, 3790, 855, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2460, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 780, 10678, 783, 406, 3811, 27577, 4111, 18336, 828, 4022, 5306, 1992, 749, 2373, 5168, 4311, 904, 4772, 10943, 1236];
+objective = 641;
+----------
+%%%mzn-stat: nodes=15233
+%%%mzn-stat: solveTime=46.58
+%%%mzn-stat: objective=650
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6377
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*peak
+% what*myal*mars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**dhal*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ens*aconite
+% koji*limn*hech*enow
+% axon*odic*eche*atok
+% boyg*sexy*rue**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3161, 4675, 2813, 2587, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 928, 1066, 64, 6623, 4597, 17836, 1851, 2265, 256, 191, 2253, 2413, 1782, 1189, 231, 2987, 1134, 197, 467, 3790, 855, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2460, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 828, 4022, 5306, 1992, 749, 2373, 5168, 4311, 904, 4772, 10943, 1236];
+objective = 650;
+----------
+%%%mzn-stat: nodes=15240
+%%%mzn-stat: solveTime=46.69
+%%%mzn-stat: objective=651
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6378
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*peak
+% what*myal*mars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*els*aconite
+% koji*limn*hech*enow
+% axon*odic*eche*atok
+% boyg*sexy*rue**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3161, 4675, 2813, 2587, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 249, 191, 2253, 2413, 1782, 1189, 231, 2987, 1134, 197, 467, 3790, 855, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 828, 4022, 5306, 1992, 749, 2373, 5168, 4311, 904, 4772, 10943, 1236];
+objective = 651;
+----------
+%%%mzn-stat: nodes=15276
+%%%mzn-stat: solveTime=46.92
+%%%mzn-stat: objective=654
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6394
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*peak
+% what*myal*mars*city
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**dhak*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ess*aconite
+% koji*limn*hech*enow
+% axon*odic*eche*atok
+% boyg*sexy*rue**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3161, 4675, 2813, 2587, 667, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 927, 1066, 64, 6623, 4597, 17836, 1851, 2265, 268, 191, 2253, 2413, 1782, 1189, 231, 2987, 1134, 197, 467, 3790, 855, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2252, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 828, 4022, 5306, 1992, 749, 2373, 5168, 4311, 904, 4772, 10943, 1236];
+objective = 654;
+----------
+%%%mzn-stat: nodes=15309
+%%%mzn-stat: solveTime=47.06
+%%%mzn-stat: objective=657
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6401
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*paik
+% what*myal*mars*chay
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**dhak*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ess*aconite
+% koji*limn*hech*enow
+% axon*odic*eche*atok
+% boyg*sexy*rue**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3115, 4675, 2813, 2587, 635, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 927, 1066, 64, 6623, 4597, 17836, 1851, 2265, 268, 191, 2253, 2413, 1782, 1189, 231, 2987, 1134, 197, 467, 3790, 855, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2252, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 812, 4022, 5306, 1992, 767, 2373, 5168, 4311, 904, 4772, 10943, 1236];
+objective = 657;
+----------
+%%%mzn-stat: nodes=15380
+%%%mzn-stat: solveTime=47.36
+%%%mzn-stat: objective=659
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6403
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*para
+% what*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**dhak*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ess*aconite
+% koji*limn*hech*enow
+% axon*odic*eche*atok
+% boyg*sexy*rue**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3135, 4675, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 927, 1066, 64, 6623, 4597, 17836, 1851, 2265, 268, 191, 2253, 2413, 1782, 1189, 231, 2987, 1134, 197, 467, 3790, 855, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26138, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2252, 12299, 2198, 8969, 1150, 2620, 14716, 231, 1360, 20359, 7502, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 812, 4022, 5306, 1992, 790, 2373, 5168, 4311, 877, 4772, 10943, 1236];
+objective = 659;
+----------
+%%%mzn-stat: nodes=15391
+%%%mzn-stat: solveTime=47.62
+%%%mzn-stat: objective=661
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6412
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*para
+% what*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*aconite
+% koji*limn*hech*enow
+% axon*odic*ogee*atok
+% boyg*sexy*zos**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3135, 4675, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 191, 2253, 2413, 1782, 1189, 231, 2987, 2994, 197, 467, 3790, 1152, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8951, 1150, 2620, 14716, 240, 1360, 20359, 7501, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 812, 4022, 5306, 1992, 790, 2373, 5168, 4311, 877, 4772, 10943, 1236];
+objective = 661;
+----------
+%%%mzn-stat: nodes=15400
+%%%mzn-stat: solveTime=47.7
+%%%mzn-stat: objective=670
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6413
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*urps
+% ache*elve*mous*para
+% what*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*iconize
+% koji*limn*hech*enow
+% axon*odic*ogee*atok
+% boyg*sexy*zos**soms
+Words weights = [303, 331, 2012, 4467, 19, 1173, 2769, 3135, 4675, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12216, 2253, 2413, 1782, 1189, 231, 2987, 2994, 197, 467, 3790, 1152, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8951, 1150, 2620, 14716, 240, 1360, 20359, 7794, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 812, 4022, 5306, 1992, 790, 2373, 5168, 4914, 877, 4772, 10943, 1236];
+objective = 670;
+----------
+%%%mzn-stat: nodes=15551
+%%%mzn-stat: solveTime=47.97
+%%%mzn-stat: objective=671
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6461
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% beam**gad*izba*ufos
+% ache*elve*mous*para
+% what*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*iconize
+% koji*limn*hech*enow
+% axon*odic*ogee*atok
+% boyg*sexy*zos**soms
+Words weights = [303, 331, 2012, 4425, 19, 1173, 2769, 3135, 4675, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12216, 2253, 2413, 1782, 1189, 231, 2987, 2994, 197, 467, 3790, 1152, 3965, 299, 8042, 199, 489, 1135, 4563, 2759, 737, 53, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8951, 1150, 2620, 14716, 240, 1360, 20359, 7794, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 279, 4022, 5306, 1992, 721, 2373, 5168, 4914, 877, 4772, 10943, 1236];
+objective = 671;
+----------
+%%%mzn-stat: nodes=15776
+%%%mzn-stat: solveTime=48.23
+%%%mzn-stat: objective=672
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6567
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% chum**gad*izba*ufos
+% hoke*elve*mous*para
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*iconize
+% koji*limn*hech*enow
+% axon*odic*ogee*atok
+% boyg*sexy*zos**soms
+Words weights = [655, 331, 2012, 4425, 1860, 1173, 2769, 3135, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12216, 2253, 2413, 1782, 1189, 231, 2987, 2994, 197, 467, 3790, 1152, 3965, 631, 8042, 199, 489, 1848, 4563, 2759, 737, 4429, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8951, 1150, 2620, 14716, 240, 1360, 20359, 7794, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 279, 4022, 5306, 1992, 721, 2373, 5168, 4914, 877, 4772, 10943, 1236];
+objective = 672;
+----------
+%%%mzn-stat: nodes=15827
+%%%mzn-stat: solveTime=48.42
+%%%mzn-stat: objective=674
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6589
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% chum**gad*izba*ufos
+% hoke*elve*mous*papa
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*iconize
+% koji*limn*hech*enow
+% axon*odic*ogee*atok
+% boyg*sexy*zos**soms
+Words weights = [655, 331, 2012, 4425, 1860, 1173, 2769, 3132, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12216, 2253, 2413, 1782, 1189, 231, 2987, 2994, 197, 467, 3790, 1152, 3965, 631, 8042, 199, 489, 1848, 4563, 2759, 737, 4429, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8951, 1150, 2620, 14716, 240, 1360, 20359, 7794, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 279, 4022, 5306, 1992, 715, 2373, 5168, 4914, 877, 4772, 10943, 1236];
+objective = 674;
+----------
+%%%mzn-stat: nodes=15859
+%%%mzn-stat: solveTime=48.66
+%%%mzn-stat: objective=675
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6590
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% chum**gad*izba*ufos
+% hoke*elve*mous*pawa
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kang*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*iconize
+% koji*limn*hech*enow
+% axon*odic*ogee*atok
+% boyg*sexy*zos**soms
+Words weights = [655, 331, 2012, 4425, 1860, 1173, 2769, 3154, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2140, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12216, 2253, 2413, 1782, 1189, 231, 2987, 2994, 197, 467, 3790, 1152, 3965, 631, 8042, 199, 489, 1848, 4563, 2759, 737, 4429, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8951, 1150, 2620, 14716, 240, 1360, 20359, 7794, 528, 764, 10678, 783, 406, 3811, 27577, 1491, 18336, 279, 4022, 5306, 1992, 732, 2373, 5168, 4914, 877, 4772, 10943, 1236];
+objective = 675;
+----------
+%%%mzn-stat: nodes=15862
+%%%mzn-stat: solveTime=48.75
+%%%mzn-stat: objective=678
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6593
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% chum**gad*izba*ufos
+% hoke*elve*mous*pawa
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kans*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*obas*atok
+% boyg*sexy*zos**soms
+Words weights = [655, 331, 2012, 4425, 1860, 1173, 2769, 3154, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2141, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 2968, 197, 467, 3790, 1152, 3965, 631, 8042, 199, 489, 1848, 4563, 2759, 737, 4429, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 6, 1360, 20359, 7858, 528, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 279, 4022, 5306, 1992, 732, 2373, 5168, 4914, 877, 4772, 10943, 1236];
+objective = 678;
+----------
+%%%mzn-stat: nodes=15934
+%%%mzn-stat: solveTime=49.06
+%%%mzn-stat: objective=679
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6604
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% chum**gad*izba*ufos
+% hoke*elve*mous*peke
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kans*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*obas*atok
+% boyg*sexy*zos**soms
+Words weights = [655, 331, 2012, 4425, 1860, 1173, 2769, 3182, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2141, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 2968, 197, 467, 3790, 1152, 3965, 631, 8042, 199, 489, 1848, 4563, 2759, 737, 4429, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 6, 1360, 20359, 7858, 528, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 288, 4022, 5306, 1992, 703, 2373, 5168, 4914, 888, 4772, 10943, 1236];
+objective = 679;
+----------
+%%%mzn-stat: nodes=15934
+%%%mzn-stat: solveTime=49.08
+%%%mzn-stat: objective=681
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6605
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% chum**gad*izba*ufos
+% hoke*elve*mous*peke
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% bima*tomb**kaph*sos
+% joey**aback*thig***
+% individualistically
+% ***nisi*lycea**jiao
+% amp*shew**kans*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*okas*atok
+% boyg*sexy*zas**soms
+Words weights = [655, 331, 2012, 4425, 1860, 1173, 2769, 3182, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 362, 4301, 2145, 915, 2079, 5, 4223, 215, 2900, 5565, 2057, 41, 3805, 2141, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 3006, 197, 467, 3790, 1135, 3965, 631, 8042, 199, 489, 1848, 4563, 2759, 737, 4429, 3052, 3299, 484, 10255, 234, 13592, 1736, 1049, 565, 7943, 459, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 528, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 288, 4022, 5306, 1992, 703, 2373, 5168, 4914, 888, 4772, 10943, 1236];
+objective = 681;
+----------
+%%%mzn-stat: nodes=16273
+%%%mzn-stat: solveTime=49.62
+%%%mzn-stat: objective=685
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6730
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% chum**gad*izba*ufos
+% hoke*elve*mous*peke
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% mize*tomb**kaph*sos
+% poem**aback*thig***
+% individualistically
+% ***cami*lycea**jiao
+% amp*spew**kans*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*okas*atok
+% boyg*sexy*zas**soms
+Words weights = [655, 331, 2012, 4425, 1860, 1173, 2769, 3182, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 2704, 4301, 2145, 915, 3282, 5, 4223, 215, 568, 5565, 2057, 41, 4010, 2141, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 3006, 197, 467, 3790, 1135, 3965, 631, 8113, 199, 489, 1848, 4563, 2759, 737, 4429, 3108, 3299, 484, 10255, 1177, 13592, 1736, 1033, 565, 7943, 451, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 528, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 288, 4022, 5306, 1992, 703, 2373, 5168, 4914, 888, 4772, 10943, 1236];
+objective = 685;
+----------
+%%%mzn-stat: nodes=16344
+%%%mzn-stat: solveTime=49.94
+%%%mzn-stat: objective=687
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6731
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% ahem**gad*izba*ufos
+% joke*elve*mous*peke
+% abet*myal*mars*chez
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% mize*tomb**kaph*sos
+% poem**aback*thig***
+% individualistically
+% ***cami*lycea**jiao
+% amp*spew**kans*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*okas*atok
+% boyg*sexy*zas**soms
+Words weights = [55, 331, 2012, 4425, 2083, 1173, 2769, 3182, 8, 2813, 2587, 638, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 2704, 4301, 2145, 915, 3282, 5, 4223, 215, 568, 5565, 2057, 41, 4010, 2141, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 3006, 197, 467, 3790, 1135, 3965, 71, 8113, 199, 489, 1848, 4563, 2759, 737, 1162, 3108, 3299, 484, 10255, 1177, 13592, 1736, 1033, 565, 7943, 451, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 528, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 288, 4022, 5306, 1992, 703, 2373, 5168, 4914, 888, 4772, 10943, 1236];
+objective = 687;
+----------
+%%%mzn-stat: nodes=16789
+%%%mzn-stat: solveTime=50.45
+%%%mzn-stat: objective=688
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=6924
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% ahem**gad*izba*urbs
+% joke*elve*mous*phew
+% abet*myal*mars*cozy
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% mize*tomb**kaph*sos
+% poem**aback*thig***
+% individualistically
+% ***cami*lycea**jiao
+% amp*spew**kans*odso
+% took**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*okas*atok
+% boyg*sexy*zas**soms
+Words weights = [55, 331, 2012, 4459, 2083, 1173, 2769, 3211, 8, 2813, 2587, 771, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 2704, 4301, 2145, 915, 3282, 5, 4223, 215, 568, 5565, 2057, 41, 4010, 2141, 2989, 4309, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 3006, 197, 467, 3790, 1135, 3965, 71, 8113, 199, 489, 1848, 4563, 2759, 737, 1162, 3108, 3299, 484, 10255, 1177, 13592, 1736, 1033, 565, 7943, 451, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 528, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 834, 4022, 5306, 1992, 98, 2373, 5168, 4914, 936, 4772, 10943, 1236];
+objective = 688;
+----------
+%%%mzn-stat: nodes=17712
+%%%mzn-stat: solveTime=51.64
+%%%mzn-stat: objective=693
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=7324
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% ahem**gad*izba*urbs
+% joke*elve*mous*phew
+% abet*myal*mars*cozy
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% mize*tomb**kaph*sos
+% poem**aback*thig***
+% individualistically
+% ***cami*lycea**jiao
+% kph*spew**kans*odso
+% nook**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*okas*atok
+% boyg*sexy*zas**soms
+Words weights = [55, 331, 2012, 4459, 2083, 1173, 2769, 3211, 8, 2813, 2587, 771, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 2704, 4301, 2145, 915, 3282, 5, 4223, 215, 568, 5565, 2057, 521, 4010, 2141, 2989, 2924, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 3006, 197, 467, 3790, 1135, 3965, 71, 8113, 2239, 489, 1848, 4563, 3326, 737, 1162, 3108, 1871, 484, 10255, 1177, 13592, 1736, 1033, 565, 7943, 451, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 528, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 834, 4022, 5306, 1992, 98, 2373, 5168, 4914, 936, 4772, 10943, 1236];
+objective = 693;
+----------
+%%%mzn-stat: nodes=18043
+%%%mzn-stat: solveTime=52.12
+%%%mzn-stat: objective=695
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=7480
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% ahem**gad*izba*urbs
+% joke*elve*mous*phew
+% abet*myal*marc*cozy
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% mize*tomb**kaph*sos
+% poem**aback*thig***
+% individualistically
+% ***cami*lycea**jiao
+% kph*spew**kans*odso
+% nook**sham*dsos*asp
+% osmol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*okas*atok
+% boyg*sexy*zas**soms
+Words weights = [55, 331, 2012, 4459, 2083, 1173, 2769, 3211, 8, 2813, 2582, 771, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 2704, 4301, 2145, 915, 3282, 5, 4223, 215, 568, 5565, 2057, 521, 4010, 2141, 2989, 2924, 3795, 1066, 64, 6623, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 3006, 197, 467, 3790, 1135, 3965, 71, 8113, 2239, 489, 1848, 4563, 3326, 737, 1162, 3108, 1871, 484, 10255, 1177, 13592, 1736, 1033, 565, 7943, 451, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 505, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 834, 4022, 5306, 1992, 98, 2373, 5168, 4914, 936, 4772, 10943, 1236];
+objective = 695;
+----------
+%%%mzn-stat: nodes=18958
+%%%mzn-stat: solveTime=53.53
+%%%mzn-stat: objective=697
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=7852
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% ahem**gad*izba*urbs
+% joke*elve*mous*phew
+% abet*myal*marc*cozy
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% mize*tomb**kaph*sos
+% poem**aback*thig***
+% individualistically
+% ***cami*lycea**jiao
+% jak*spew**kans*odso
+% amok**sham*dsos*asp
+% salol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*limn*kazi*enow
+% axon*odic*okas*atok
+% boyg*sexy*zas**soms
+Words weights = [55, 331, 2012, 4459, 2083, 1173, 2769, 3211, 8, 2813, 2582, 771, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 2704, 4301, 2145, 915, 3282, 5, 4223, 215, 568, 5565, 2057, 465, 4010, 2141, 2989, 119, 3795, 1066, 64, 8091, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2413, 2156, 1189, 231, 2987, 3006, 197, 467, 3790, 1135, 3965, 71, 8113, 2031, 489, 1848, 4563, 108, 737, 1162, 3108, 2255, 484, 10255, 1177, 13592, 1736, 1033, 565, 7943, 451, 1443, 3801, 26139, 23, 69, 19381, 4686, 610, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 505, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 834, 4022, 5306, 1992, 98, 2373, 5168, 4914, 936, 4772, 10943, 1236];
+objective = 697;
+----------
+%%%mzn-stat: nodes=20344
+%%%mzn-stat: solveTime=55.29
+%%%mzn-stat: objective=698
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=8448
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+% ahem**gad*izba*urbs
+% joke*elve*mous*phew
+% abet*myal*marc*cozy
+% rosehip*uke*qoph***
+% ***pachydermatously
+% sifaka*neese**ocrea
+% ana*anta*feer**kink
+% mize*tomb**kaph*sos
+% poem**aback*thig***
+% individualistically
+% ***cami*lycea**jiao
+% jak*spew**kans*odso
+% amok**sham*dsos*asp
+% salol**iroko*uhurus
+% phonocardiograms***
+% ***krab*ell*ironize
+% koji*mawn*kazi*enow
+% axon*pyic*okas*atok
+% boyg*sagy*zas**soms
+Words weights = [55, 331, 2012, 4459, 2083, 1173, 2769, 3211, 8, 2813, 2582, 771, 21583, 1008, 3424, 1760, 15186, 6261, 6480, 43, 140, 1301, 2213, 2704, 4301, 2145, 915, 3282, 5, 4223, 215, 568, 5565, 2057, 465, 4010, 2141, 2989, 119, 3795, 1066, 64, 8091, 4597, 17836, 1851, 2265, 247, 12714, 2253, 2605, 2156, 1189, 231, 3415, 3006, 197, 467, 3682, 1135, 3965, 71, 8113, 2031, 489, 1848, 4563, 108, 737, 1162, 3108, 2255, 484, 10255, 1177, 13592, 1736, 1033, 565, 7943, 451, 1456, 3801, 26139, 14, 69, 19381, 4686, 1079, 4304, 240, 1125, 2162, 147, 2720, 12299, 2198, 8952, 1150, 2620, 14716, 31, 1360, 20359, 7858, 505, 764, 23937, 783, 406, 3811, 27577, 1491, 18336, 834, 4022, 5306, 1992, 98, 2373, 5168, 4914, 936, 4772, 10943, 1236];
+objective = 698;
+----------
+%%%mzn-stat: nodes=20560
+%%%mzn-stat: solveTime=55.58
+%%%mzn-stat: objective=698
+%%%mzn-stat: objectiveBound=2937
+%%%mzn-stat: failures=8549
+%%%mzn-stat: peakMem=87
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=52
+%%%mzn-stat-end

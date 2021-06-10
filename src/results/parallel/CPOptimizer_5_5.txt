@@ -1,0 +1,173 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=55
+%%%mzn-stat: flatIntConstraints=67
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=1.84965
+%%%mzn-stat-end
+
+% dak**
+% orad*
+% cobia
+% *waka
+% **bah
+Words weights = [174, 3052, 1845, 4592, 82, 201, 180, 4786, 945, 1];
+objective = 47;
+----------
+% ask**
+% blae*
+% babka
+% *taka
+% **bah
+Words weights = [63, 384, 654, 4123, 82, 5, 3892, 4786, 1163, 1];
+objective = 48;
+----------
+% mak**
+% alap*
+% cobia
+% *waka
+% **bah
+Words weights = [584, 79, 1845, 4592, 82, 581, 102, 4786, 3229, 1];
+objective = 49;
+----------
+% awa**
+% shri*
+% sadza
+% *peba
+% **bah
+Words weights = [71, 3819, 8053, 3167, 82, 65, 4674, 442, 2012, 1];
+objective = 50;
+----------
+% cly**
+% wadi*
+% mirza
+% *caba
+% **dah
+Words weights = [147, 4578, 5913, 549, 173, 169, 2299, 10874, 2012, 1];
+objective = 53;
+----------
+% aba**
+% gaze*
+% aback
+% *ance
+% **sex
+Words weights = [4, 1528, 5, 126, 886, 16, 242, 634, 1132, 505];
+objective = 54;
+----------
+% zos**
+% udos*
+% zoppa
+% *rhea
+% **ich
+Words weights = [1152, 4423, 11062, 3530, 441, 1153, 2988, 8901, 4006, 1];
+objective = 56;
+----------
+% aba**
+% gadi*
+% abuzz
+% *alba
+% **tax
+Words weights = [4, 1479, 52, 83, 953, 16, 242, 113, 2012, 1136];
+objective = 58;
+----------
+% zos**
+% zhos*
+% zoppa
+% *shea
+% **ich
+Words weights = [1152, 4892, 11062, 3800, 441, 1154, 3000, 8901, 4006, 1];
+objective = 67;
+----------
+% cha**
+% sand*
+% chizz
+% *agha
+% **hox
+Words weights = [142, 3699, 1672, 44, 428, 161, 1730, 359, 1113, 1136];
+objective = 68;
+----------
+% zho**
+% zarf*
+% ziram
+% *riza
+% **sea
+Words weights = [1144, 4875, 11034, 3576, 878, 1154, 1734, 6617, 1292, 580];
+objective = 69;
+----------
+% zzz**
+% heys*
+% orgia
+% *kaka
+% **lah
+Words weights = [1154, 1818, 6606, 2131, 530, 1144, 4887, 11074, 3837, 1];
+objective = 70;
+----------
+% zzz**
+% ueys*
+% zamia
+% *sika
+% **cel
+Words weights = [1154, 4424, 10986, 3837, 140, 1153, 4879, 11077, 3838, 2];
+objective = 72;
+----------
+% zzz**
+% haik*
+% orzos
+% *fila
+% **tab
+Words weights = [1154, 1731, 6619, 1337, 938, 1144, 4875, 11038, 2254, 862];
+objective = 73;
+----------
+% hoh**
+% ayah*
+% jefes
+% *zila
+% **ziz
+Words weights = [420, 232, 4668, 4895, 1149, 385, 3101, 4073, 1792, 877];
+objective = 74;
+----------
+% doc**
+% amah*
+% kepis
+% *riza
+% **zzz
+Words weights = [201, 108, 4886, 3576, 1154, 174, 3023, 1482, 1844, 877];
+objective = 75;
+----------
+% moc**
+% amah*
+% kepis
+% *riza
+% **zzz
+Words weights = [616, 108, 4886, 3576, 1154, 584, 3023, 1482, 1844, 877];
+objective = 76;
+----------
+% feh**
+% ayah*
+% defis
+% *riza
+% **zzz
+Words weights = [288, 232, 2322, 3576, 1154, 277, 1247, 4073, 1844, 877];
+objective = 77;
+----------
+% amp**
+% razz*
+% blaes
+% *izba
+% **zuz
+Words weights = [41, 3491, 989, 2012, 1153, 52, 2566, 7422, 4880, 877];
+objective = 78;
+----------
+%%%mzn-stat: initTime=0.023872
+%%%mzn-stat: solveTime=58.1488
+%%%mzn-stat: solutions=19
+%%%mzn-stat: variables=61
+%%%mzn-stat: propagators=61
+%%%mzn-stat: propagations=82756715
+%%%mzn-stat: nodes=1895139
+%%%mzn-stat: failures=947515
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=43
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=19
+%%%mzn-stat-end

@@ -1,0 +1,98 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=49
+%%%mzn-stat: flatIntConstraints=61
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=1.64628
+%%%mzn-stat-end
+
+% aba**
+% zurf*
+% obeys
+% *acre
+% **adz
+Words weights = [4, 4920, 6464, 24, 14, 78, 496, 450, 1475, 888];
+objective = 56;
+----------
+% ahh**
+% fays*
+% tupek
+% *dexy
+% **dye
+Words weights = [21, 1291, 10023, 925, 223, 15, 1767, 4470, 3790, 523];
+objective = 58;
+----------
+% aka**
+% hypo*
+% happy
+% *kapa
+% **yok
+Words weights = [31, 1945, 4127, 2144, 1122, 21, 2279, 421, 3049, 1101];
+objective = 60;
+----------
+% zos**
+% exam*
+% kilim
+% *memo
+% **sez
+Words weights = [1152, 1237, 4932, 2632, 888, 1140, 3098, 8084, 2680, 628];
+objective = 62;
+----------
+% jap**
+% okeh*
+% becap
+% *ekka
+% **yex
+Words weights = [467, 3008, 805, 1163, 1115, 478, 74, 6852, 1737, 751];
+objective = 65;
+----------
+% cep**
+% scam*
+% chizz
+% *trez
+% **sez
+Words weights = [141, 3722, 1672, 4350, 888, 161, 1136, 6710, 2817, 1154];
+objective = 74;
+----------
+% zos**
+% expo*
+% kiack
+% *dzho
+% **zep
+Words weights = [1152, 1243, 4914, 1113, 1143, 1140, 3097, 8980, 2978, 518];
+objective = 77;
+----------
+% zep**
+% haze*
+% oracy
+% *dzho
+% **zek
+Words weights = [1143, 1774, 6592, 1113, 1140, 1144, 1117, 7422, 1134, 1122];
+objective = 79;
+----------
+% mks**
+% ahem*
+% warez
+% *fizz
+% **fez
+Words weights = [612, 55, 10532, 1361, 296, 592, 2190, 8350, 2658, 1154];
+objective = 81;
+----------
+% mks**
+% oyez*
+% warez
+% *razz
+% **lez
+Words weights = [612, 3101, 10532, 3491, 553, 626, 2280, 8343, 4891, 1154];
+objective = 82;
+----------
+% jig**
+% azym*
+% warez
+% *razz
+% **lez
+Words weights = [476, 239, 10532, 3491, 553, 469, 2011, 4050, 2658, 1154];
+objective = 86;
+----------
+%%%mzn-stat: nSolutions=11
+%%%mzn-stat-end

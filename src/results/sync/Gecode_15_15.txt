@@ -1,0 +1,399 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=502
+%%%mzn-stat: flatIntConstraints=615
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=4.18556
+%%%mzn-stat-end
+
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*f*genoms
+% itchy*ked*derat
+% lira*ahhed*rabi
+% loy*bra*pad*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 6, 6666, 4609, 499, 2364, 2429, 185, 3439, 570, 118, 742, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 457, 910, 5, 8788, 842, 741, 288, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 890, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 359;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*f*genoms
+% itchy*ked*derat
+% lira*ahhed*rabi
+% loy*bra*pap*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 6, 6666, 4609, 499, 2364, 2429, 185, 3439, 570, 118, 746, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 457, 910, 5, 8788, 842, 741, 288, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 3177, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 360;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*f*genoms
+% itchy*ked*derat
+% lira*ahhed*rabi
+% loy*bra*paw*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 6, 6666, 4609, 499, 2364, 2429, 185, 3439, 570, 118, 750, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 457, 910, 5, 8788, 842, 741, 288, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 4650, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 361;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*j*genoms
+% itchy*kob*derat
+% lira*pheon*rabi
+% loy*boa*gub*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 10, 6666, 4609, 515, 2364, 2429, 6933, 3439, 570, 106, 369, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 7113, 910, 5, 8788, 842, 741, 479, 543, 10445, 2, 1867, 6575, 501, 6428, 2901, 3229, 315, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 362;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*j*genoms
+% itchy*kob*derat
+% lira*pheon*rabi
+% loy*boa*guv*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 10, 6666, 4609, 515, 2364, 2429, 6933, 3439, 570, 106, 378, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 7113, 910, 5, 8788, 842, 741, 479, 543, 10445, 2, 1867, 6575, 501, 6428, 2901, 3229, 4507, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 363;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*red*derat
+% lira*waked*rabi
+% loy*bel*paw*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 824, 2364, 2429, 10498, 3439, 570, 93, 750, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 10590, 910, 5, 13226, 842, 741, 1140, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 4650, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 364;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*rid*derat
+% lira*dazed*rabi
+% loy*bel*pad*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 837, 2364, 2429, 2275, 3439, 570, 93, 742, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 2318, 910, 5, 13226, 842, 741, 1149, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 890, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 365;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*rid*derat
+% lira*dazed*rabi
+% loy*bel*pap*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 837, 2364, 2429, 2275, 3439, 570, 93, 746, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 2318, 910, 5, 13226, 842, 741, 1149, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 3177, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 366;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*rid*derat
+% lira*dazed*rabi
+% loy*bel*paw*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 837, 2364, 2429, 2275, 3439, 570, 93, 750, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 2318, 910, 5, 13226, 842, 741, 1149, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 4650, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 367;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*rid*derat
+% lira*mazed*rabi
+% loy*bel*paw*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 837, 2364, 2429, 5742, 3439, 570, 93, 750, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 5766, 910, 5, 13226, 842, 741, 1149, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 4650, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 368;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*oud*derat
+% lira*dozed*rabi
+% loy*bum*paw*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 726, 2364, 2429, 2601, 3439, 570, 123, 750, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 472, 4093, 876, 2691, 910, 5, 11456, 842, 741, 1153, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 4650, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 369;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*sad*derat
+% lira*pyxed*rabi
+% loy*fil*paw*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 864, 2364, 2429, 7418, 3439, 570, 301, 750, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 1428, 4093, 876, 6963, 910, 5, 16587, 842, 741, 1136, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 4650, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 370;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*mid*derat
+% lira*mozed*rabi
+% loy*fer*paw*doc
+% en*preplaces*ba
+% a*featherhead*l
+% *necessitarian*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 604, 2364, 2429, 6071, 3439, 570, 290, 750, 201, 28, 23622, 10, 1, 7681, 6515, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 754, 3890, 8543, 1428, 4093, 876, 5766, 910, 5, 10584, 842, 741, 1149, 543, 10445, 2, 4349, 6575, 501, 2206, 2901, 3229, 4650, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 371;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*h*genoms
+% itchy*mig*derat
+% lira*dacha*rabi
+% loy*con*abs*doc
+% en*zoechrome*ba
+% a*featherhead*l
+% *penthemimeral*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 8, 6666, 4609, 605, 2364, 2429, 2206, 3439, 570, 151, 7, 201, 28, 35594, 10, 1, 7681, 7603, 991, 16, 5263, 42, 4841, 3730, 34, 1112, 17896, 1142, 3890, 8543, 695, 4093, 876, 2499, 910, 5, 9934, 842, 741, 406, 396, 10445, 2, 6698, 6575, 501, 32, 2901, 3229, 3915, 444, 3040, 226, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 372;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*kit*derat
+% lira*gazar*rabi
+% loy*hoc*vas*doc
+% en*hatchecks*ba
+% a*leatherhead*l
+% *intraarterial*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 513, 2364, 2429, 3622, 3439, 570, 416, 1033, 201, 28, 13886, 10, 1, 11542, 5380, 991, 16, 5263, 42, 4841, 3730, 69, 1112, 17896, 401, 3890, 8543, 1720, 4093, 876, 3877, 910, 5, 8627, 842, 741, 1149, 399, 10445, 2, 16837, 6575, 501, 7502, 2901, 3229, 3876, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 373;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*kit*derat
+% lira*lazar*rabi
+% loy*myc*vas*doc
+% en*hatchecks*ba
+% a*leatherhead*l
+% *intraarterial*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 513, 2364, 2429, 5205, 3439, 570, 635, 1033, 201, 28, 13886, 10, 1, 11542, 5380, 991, 16, 5263, 42, 4841, 3730, 69, 1112, 17896, 401, 3890, 8543, 2542, 4093, 876, 5581, 910, 5, 8627, 842, 741, 1149, 399, 10445, 2, 16837, 6575, 501, 7502, 2901, 3229, 3876, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 374;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*dzo*derat
+% lira*mazut*rabi
+% loy*fat*vas*doc
+% en*pinchecks*ba
+% a*leatherhead*l
+% *intraarterial*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 224, 2364, 2429, 5745, 3439, 570, 282, 1033, 201, 28, 22657, 10, 1, 11542, 5380, 991, 16, 5263, 42, 4841, 3730, 69, 1112, 17896, 762, 3890, 8543, 1324, 4093, 876, 5666, 910, 5, 4122, 842, 741, 1154, 399, 10445, 2, 11647, 6575, 501, 9401, 2901, 3229, 3876, 444, 3040, 866, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 377;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*zek*derat
+% lira*pudic*rabi
+% loy*kaf*bok*doc
+% en*aeronomic*ba
+% a*girdlestead*l
+% *homoiothermal*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 1140, 2364, 2429, 7333, 3439, 570, 491, 111, 201, 28, 475, 10, 1, 8595, 4447, 991, 16, 5263, 42, 4841, 3730, 38, 1112, 17896, 26, 3890, 8543, 2184, 4093, 876, 6758, 910, 5, 19555, 842, 741, 1138, 652, 10445, 2, 8812, 6575, 501, 1914, 2901, 3229, 2201, 444, 3040, 132, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 378;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*zin*derat
+% lira*zizel*rabi
+% loy*lez*fog*doc
+% en*venerator*ba
+% a*girdlestead*l
+% *compositorial*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 1146, 2364, 2429, 11037, 3439, 570, 553, 311, 201, 28, 34227, 10, 1, 8595, 1671, 991, 16, 5263, 42, 4841, 3730, 38, 1112, 17896, 1047, 3890, 8543, 2378, 4093, 876, 11005, 910, 5, 19516, 842, 741, 1149, 828, 10445, 2, 10965, 6575, 501, 5477, 2901, 3229, 1623, 444, 3040, 813, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 382;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*zin*derat
+% lira*zizel*rabi
+% loy*lez*foh*doc
+% en*venerator*ba
+% a*girdlestead*l
+% *compositorial*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 1146, 2364, 2429, 11037, 3439, 570, 553, 312, 201, 28, 34227, 10, 1, 8595, 1671, 991, 16, 5263, 42, 4841, 3730, 38, 1112, 17896, 1047, 3890, 8543, 2378, 4093, 876, 11005, 910, 5, 19516, 842, 741, 1149, 828, 10445, 2, 10965, 6575, 501, 5477, 2901, 3229, 1853, 444, 3040, 813, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 384;
+----------
+% *physharmonica*
+% b*gelatinoids*c
+% od*salopette*ta
+% uey*mak*mis*pht
+% glop*lepid*brie
+% ainas*sac*franc
+% indris*c*kiaugh
+% ne*alae*bern*ai
+% vastly*z*genoms
+% itchy*bam*derat
+% lira*zaxes*rabi
+% loy*ziz*dal*doc
+% en*hematines*ba
+% a*outbreathed*l
+% *ambassadorial*
+Words weights = [7870, 2, 8466, 87, 26740, 113, 1004, 584, 609, 766, 1603, 5272, 482, 200, 863, 3414, 8137, 3, 8803, 82, 77, 335, 4, 18422, 26, 6666, 4609, 83, 2364, 2429, 10995, 3439, 570, 1149, 175, 201, 28, 14119, 10, 1, 14364, 261, 991, 16, 5263, 42, 4841, 3730, 91, 1112, 17896, 430, 3890, 8543, 4890, 4093, 876, 11022, 910, 5, 1339, 842, 741, 1136, 955, 10445, 2, 10138, 6575, 501, 8125, 2901, 3229, 2364, 444, 3040, 882, 15, 3343, 3052, 17, 1, 21777, 1197];
+objective = 385;
+----------
+%%%mzn-stat: initTime=0.627812
+%%%mzn-stat: solveTime=55.9418
+%%%mzn-stat: solutions=21
+%%%mzn-stat: variables=535
+%%%mzn-stat: propagators=582
+%%%mzn-stat: propagations=7846725
+%%%mzn-stat: nodes=89275
+%%%mzn-stat: failures=44595
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=75
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=21
+%%%mzn-stat-end

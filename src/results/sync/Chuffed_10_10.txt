@@ -1,0 +1,114 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=205
+%%%mzn-stat: flatIntConstraints=242
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=3.48606
+%%%mzn-stat-end
+
+% *zugzwang*
+% z*sayeds*a
+% on*umps*zs
+% oes*et*poh
+% spue**byrl
+% pern**sore
+% ore*am*tor
+% rs*acer*se
+% e*kameez*d
+% *scherzos*
+Words weights = [36530, 26, 14520, 92, 4439, 140, 693, 31, 779, 4019, 547, 3200, 3978, 721, 5, 984, 107, 17, 108, 5, 8654, 27374, 36512, 26, 10974, 124, 4078, 60, 340, 28, 1, 4921, 22, 4666, 2621, 13, 13, 833, 84, 3418, 139, 7, 19549, 1582];
+objective = 197;
+----------
+% *yatagans*
+% c*syzygy*a
+% hm*gyne*kc
+% eau*my*eve
+% cusk**sker
+% knew**okta
+% odd*lo*act
+% fy*jamb*he
+% f*kimbos*d
+% *dybbukim*
+Words weights = [36319, 3, 16621, 45, 1711, 60, 229, 80, 272, 816, 3876, 2236, 3011, 690, 70, 10, 36, 2021, 41, 6, 8845, 9516, 5288, 25, 10082, 7, 4471, 65, 1001, 64, 475, 239, 2310, 1712, 3021, 17, 111, 111, 86, 1163, 110, 19, 9024, 200];
+objective = 219;
+----------
+% *neckweed*
+% q*shaykh*a
+% us*ance*ss
+% oke*sh*mys
+% tymp**ooze
+% abys**drys
+% bod*dm*ags
+% lx*zizz*ye
+% y*boreas*d
+% *dyslexic*
+Words weights = [19938, 17, 14997, 124, 126, 112, 703, 109, 636, 4413, 3042, 15, 1065, 108, 22, 19, 72, 4906, 134, 25, 1968, 9534, 24791, 14, 15369, 30, 1183, 14, 142, 103, 1152, 2141, 961, 4760, 2817, 242, 87, 1136, 26, 2753, 110, 4, 16621, 1627];
+objective = 234;
+----------
+% *beefcake*
+% c*scuzzy*f
+% od*urao*pe
+% boy*or*woe
+% whiz**khud
+% eyra**wych
+% bok*lx*she
+% bs*boyg*ya
+% y*jetsam*d
+% *janitrix*
+Words weights = [2591, 3, 14710, 87, 4458, 100, 117, 94, 1083, 4688, 2196, 1250, 4760, 111, 72, 890, 13, 467, 133, 25, 8445, 16095, 6056, 2, 4661, 30, 4823, 54, 231, 138, 94, 1464, 2489, 827, 4767, 78, 64, 337, 65, 4693, 77, 5, 12675, 11236];
+objective = 241;
+----------
+% *physicky*
+% e*gewgaw*m
+% xs*hugy*by
+% hye*ms*pyx
+% azym**jape
+% lyre**scad
+% aga*ko*ate
+% ny*perk*hm
+% t*heezie*a
+% *kickoffs*
+Words weights = [22738, 5, 6696, 131, 1913, 14, 439, 78, 807, 239, 2025, 2540, 3721, 16, 62, 66, 86, 3198, 45, 20, 7534, 16514, 10827, 16, 16621, 42, 1250, 43, 1108, 75, 754, 4094, 2163, 1965, 3068, 138, 57, 509, 64, 3102, 25, 25, 2420, 19782];
+objective = 242;
+----------
+% *quodding*
+% o*pizzle*p
+% xs*kohl*ko
+% aka*so*myc
+% zizz**shah
+% emys**soca
+% ppm*ws*sky
+% as*ahhs*se
+% m*umiaks*d
+% *chuddahs*
+Words weights = [24782, 15, 12380, 131, 2251, 62, 31, 111, 635, 4906, 3794, 1184, 3946, 789, 129, 904, 7, 56, 108, 13, 17868, 5584, 21662, 17, 15343, 122, 239, 119, 699, 140, 42, 1114, 4681, 1113, 3792, 450, 112, 902, 82, 2659, 109, 7, 9027, 23301];
+objective = 244;
+----------
+% *mudpuppy*
+% s*rallye*z
+% kw*doux*fy
+% yer*ys*riz
+% hiya**jazz
+% ogam**sizy
+% ohs*cw*dev
+% ks*ship*da
+% s*kwacha*s
+% *scything*
+Words weights = [19581, 19, 13225, 64, 1036, 36, 1111, 136, 843, 1843, 2039, 2993, 3867, 698, 16, 185, 63, 3808, 17, 19, 9025, 27660, 28822, 13, 18935, 123, 3664, 60, 171, 5, 936, 3274, 633, 4434, 4695, 807, 57, 764, 100, 3455, 6, 25, 5976, 36542];
+objective = 249;
+----------
+% *whoredom*
+% c*skyway*z
+% za*ankh*fy
+% avo*ds*miz
+% ricy**mozz
+% dahs**fozy
+% ore*ky*dev
+% my*woad*da
+% s*gypped*s
+% *kenspeck*
+Words weights = [35834, 3, 15379, 138, 133, 36, 70, 24, 611, 3539, 2778, 839, 1427, 721, 65, 185, 80, 4726, 17, 19, 7275, 16445, 7560, 23, 994, 47, 2978, 37, 702, 136, 1096, 3668, 2259, 1236, 4778, 173, 76, 183, 98, 2742, 19, 13, 5976, 36542];
+objective = 256;
+----------
+%%%mzn-stat: nSolutions=8
+%%%mzn-stat-end

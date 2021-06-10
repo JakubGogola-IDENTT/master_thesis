@@ -1,0 +1,46 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=469
+%%%mzn-stat: flatIntConstraints=582
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=4.06258
+%%%mzn-stat-end
+
+% *purposelessly*
+% i*serpiginous*z
+% na*zealotism*by
+% cly*elk*hao*lam
+% room*siroc*helo
+% ingot*eas*sault
+% meiths*y*sundae
+% in*teak*wold*dc
+% nealed*e*tusseh
+% assed*urb*sewen
+% tsks*anger*lari
+% oes*ans*gel*pec
+% rs*funhouses*da
+% y*minaudieres*l
+% *dilettanteism*
+Words weights = [8658, 9, 19360, 81, 35554, 14, 147, 246, 388, 531, 3608, 8571, 1795, 4562, 227, 8158, 10169, 25, 16447, 50, 4171, 4732, 19, 10933, 5, 17737, 525, 1018, 8374, 4365, 354, 2322, 693, 46, 344, 754, 107, 12459, 17, 25, 12662, 2714, 4958, 16, 549, 124, 4835, 190, 77, 833, 15964, 301, 3345, 9644, 204, 6579, 864, 374, 15216, 11, 18114, 240, 822, 261, 689, 9536, 23, 1440, 2892, 916, 7746, 3982, 9272, 2377, 931, 11289, 882, 71, 2382, 4087, 112, 25, 1640, 12100];
+objective = 338;
+----------
+% *thanatography*
+% u*aponeuroses*h
+% ns*eglateres*by
+% cub*gab*eta*cap
+% ogam*sassy*bolo
+% nanas*gie*poulp
+% crinum*x*tempeh
+% eh*iris*doab*to
+% aortal*z*dromos
+% luaus*tie*trump
+% asks*menus*amah
+% bee*tar*tam*mna
+% ls*forecabin*et
+% e*paradoxical*e
+% *psychodynamic*
+Words weights = [10784, 21, 1037, 84, 9708, 14, 162, 330, 269, 134, 2993, 8144, 427, 6206, 351, 7215, 3771, 24, 16922, 26, 1998, 978, 116, 646, 26, 4875, 5506, 969, 9978, 190, 5791, 108, 91, 947, 943, 613, 71, 12025, 31, 5, 15058, 8600, 11289, 20, 20844, 40, 271, 3460, 103, 50, 14884, 285, 2911, 9289, 4318, 371, 606, 5674, 16860, 19, 16980, 730, 901, 1146, 149, 7073, 4, 5513, 7927, 977, 8040, 188, 6843, 2661, 761, 2782, 641, 47, 761, 2789, 67, 25, 1642, 4648];
+objective = 366;
+----------
+%%%mzn-stat: nSolutions=2
+%%%mzn-stat-end

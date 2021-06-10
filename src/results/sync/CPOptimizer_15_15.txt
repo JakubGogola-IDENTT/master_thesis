@@ -1,0 +1,98 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=469
+%%%mzn-stat: flatIntConstraints=582
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=4.04256
+%%%mzn-stat-end
+
+%%%mzn-stat: initTime=3.37
+%%%mzn-stat: variables=84
+%%%mzn-stat: propagators=583
+%%%mzn-stat: objectiveBound=inf
+%%%mzn-stat: peakMem=83
+%%%mzn-stat-end
+%%%mzn-stat: nodes=373
+%%%mzn-stat: solveTime=5.9
+%%%mzn-stat: objective=336
+%%%mzn-stat: objectiveBound=1907
+%%%mzn-stat: failures=149
+%%%mzn-stat: peakMem=96
+%%%mzn-stat-end
+% *incommunicado*
+% c*eudiometers*n
+% ls*renumbers*po
+% its*sel*eme*pan
+% naik*rinks*muti
+% opahs*nis*vimen
+% peloid*m*holard
+% id*troy*load*nu
+% niobic*k*arenas
+% aures*las*swelt
+% csch*gasts*sair
+% oes*set*oom*psi
+% is*technopop*ma
+% d*musketproof*l
+% *pigeonhearted*
+Words weights = [4900, 3, 7265, 71, 25609, 102, 461, 883, 251, 745, 2828, 7829, 2809, 6578, 659, 10375, 12051, 13, 7737, 48, 4362, 2440, 85, 11073, 11, 720, 574, 534, 9338, 790, 3597, 3688, 693, 884, 711, 793, 52, 31268, 73, 4, 13267, 7915, 1477, 9, 20284, 82, 3823, 3057, 77, 166, 13385, 991, 2986, 8570, 3782, 5890, 201, 3636, 10629, 25, 9202, 1011, 657, 494, 672, 10946, 12, 16227, 4610, 414, 8906, 621, 10424, 2748, 59, 15428, 785, 24, 3390, 2852, 34, 15, 15237, 6780];
+objective = 336;
+----------
+%%%mzn-stat: nodes=2388
+%%%mzn-stat: solveTime=12.02
+%%%mzn-stat: objective=361
+%%%mzn-stat: objectiveBound=1907
+%%%mzn-stat: failures=1074
+%%%mzn-stat: peakMem=96
+%%%mzn-stat-end
+% *telefacsimile*
+% x*hematocrits*h
+% is*pinewoods*ho
+% pho*cel*ons*gem
+% hide*sifts*frae
+% irony*cis*slurs
+% straes*g*shyest
+% ts*maul*weel*er
+% elvers*f*alerce
+% reals*moy*fault
+% ness*quoad*floc
+% uva*bus*gib*eth
+% me*footgears*he
+% s*leathercoat*s
+% *extrasystoles*
+Words weights = [10688, 24, 9236, 52, 22666, 46, 765, 140, 708, 345, 1821, 8522, 1428, 4600, 146, 8730, 16258, 7, 15151, 117, 2601, 4646, 29, 5197, 6, 379, 7623, 627, 3092, 2871, 7482, 1383, 1029, 126, 349, 270, 75, 11970, 41, 19, 11540, 3645, 12063, 20, 19487, 26, 2988, 4497, 72, 546, 7991, 292, 1177, 10881, 406, 3057, 935, 7490, 904, 12, 10781, 155, 300, 314, 348, 14620, 23, 19294, 4599, 878, 2399, 2667, 8430, 490, 461, 9407, 867, 71, 1678, 3645, 114, 5, 9148, 4439];
+objective = 361;
+----------
+%%%mzn-stat: nodes=4923
+%%%mzn-stat: solveTime=20.29
+%%%mzn-stat: objective=363
+%%%mzn-stat: objectiveBound=1907
+%%%mzn-stat: failures=2233
+%%%mzn-stat: peakMem=96
+%%%mzn-stat-end
+% *acatamathesia*
+% s*scapegoated*s
+% up*esoterica*be
+% lem*hoa*ich*fum
+% pros*plack*dali
+% hithe*sis*devil
+% ottars*a*paramo
+% no*muon*aula*ag
+% ynambu*s*petara
+% lazes*mar*sexer
+% ueys*hazel*dixi
+% rum*her*bas*lit
+% em*palafitte*ah
+% a*aeroculture*m
+% *adaptableness*
+Words weights = [22, 19, 18976, 122, 10546, 11, 545, 414, 441, 326, 3358, 7044, 843, 4299, 899, 2383, 11580, 1, 11836, 83, 2797, 202, 2, 19381, 19, 12134, 5207, 589, 8378, 4424, 4175, 975, 857, 399, 87, 560, 27, 21449, 3, 1, 324, 100, 10395, 1, 15559, 15, 2766, 239, 1, 9, 22842, 753, 4154, 2938, 1758, 419, 917, 4219, 10252, 14, 9982, 17, 23, 877, 323, 17402, 1, 13405, 4076, 800, 5180, 1218, 2220, 4047, 878, 6595, 259, 48, 1287, 228, 30, 1, 2481, 9642];
+objective = 363;
+----------
+%%%mzn-stat: nodes=12678
+%%%mzn-stat: solveTime=55.98
+%%%mzn-stat: objective=363
+%%%mzn-stat: objectiveBound=1907
+%%%mzn-stat: failures=5854
+%%%mzn-stat: peakMem=99
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=3
+%%%mzn-stat-end

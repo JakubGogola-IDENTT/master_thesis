@@ -1,0 +1,1023 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=205
+%%%mzn-stat: flatIntConstraints=242
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=3.24919
+%%%mzn-stat-end
+
+%%%mzn-stat: initTime=1.09
+%%%mzn-stat: variables=44
+%%%mzn-stat: propagators=243
+%%%mzn-stat: objectiveBound=inf
+%%%mzn-stat: peakMem=32
+%%%mzn-stat-end
+%%%mzn-stat: nodes=42
+%%%mzn-stat: solveTime=1.64
+%%%mzn-stat: objective=137
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=8
+%%%mzn-stat: peakMem=39
+%%%mzn-stat-end
+% *anasarca*
+% a*abacas*n
+% la*areg*go
+% gid*id*ars
+% aked**alae
+% roma**iamb
+% one*ah*spa
+% ba*alap*ag
+% a*alalia*s
+% *embreads*
+Words weights = [1002, 1, 4, 66, 166, 38, 350, 48, 59, 73, 77, 3600, 1948, 707, 3, 921, 10, 79, 2, 1, 345, 9884, 701, 1, 308, 81, 906, 5, 4, 17, 34, 3707, 80, 16, 1739, 811, 4, 767, 15, 81, 1, 1, 7031, 20338];
+objective = 137;
+----------
+%%%mzn-stat: nodes=76
+%%%mzn-stat: solveTime=1.71
+%%%mzn-stat: objective=167
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=10
+%%%mzn-stat: peakMem=39
+%%%mzn-stat-end
+% *supersex*
+% e*typier*s
+% pe*eide*ge
+% ilk*cs*lem
+% cusk**peni
+% adaw**aits
+% ler*de*roo
+% ys*mars*of
+% x*outsee*t
+% *fixatifs*
+Words weights = [31137, 5, 17811, 100, 1159, 37, 449, 15, 545, 816, 3190, 28, 69, 547, 20, 849, 136, 2587, 88, 24, 11638, 11593, 10335, 19, 5191, 125, 2268, 90, 806, 64, 633, 1196, 863, 3541, 1210, 880, 99, 882, 29, 2365, 25, 24, 6673, 27894];
+objective = 167;
+----------
+%%%mzn-stat: nodes=408
+%%%mzn-stat: solveTime=2.02
+%%%mzn-stat: objective=214
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=139
+%%%mzn-stat: peakMem=39
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suss*ny
+% mna*ms*cuz
+% owns**yutz
+% sots**arty
+% ava*ma*rev
+% ne*cepe*da
+% s*owners*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4080, 86, 613, 78, 168, 3092, 4869, 3985, 182, 69, 73, 830, 82, 619, 17, 19, 11674, 36541, 36540, 26, 18169, 136, 140, 98, 636, 112, 169, 3086, 2640, 2379, 148, 723, 133, 261, 39, 812, 110, 25, 11255, 36542];
+objective = 214;
+----------
+%%%mzn-stat: nodes=8975
+%%%mzn-stat: solveTime=23.84
+%%%mzn-stat: objective=215
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4169
+%%%mzn-stat: peakMem=40
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suss*ny
+% mna*ms*cuz
+% owns**yutz
+% sogs**arty
+% ava*ma*rev
+% ne*cepe*da
+% s*owners*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4080, 86, 613, 78, 168, 3092, 4869, 3953, 182, 69, 73, 830, 82, 619, 17, 19, 11674, 36541, 36540, 26, 18169, 136, 130, 98, 636, 112, 169, 3086, 2640, 2379, 148, 723, 133, 261, 39, 812, 110, 25, 11255, 36542];
+objective = 215;
+----------
+%%%mzn-stat: nodes=8998
+%%%mzn-stat: solveTime=23.98
+%%%mzn-stat: objective=217
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4170
+%%%mzn-stat: peakMem=40
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suss*by
+% mna*ms*cuz
+% owns**yutz
+% sogs**arty
+% ava*ma*rev
+% ne*cepe*da
+% s*owners*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4080, 14, 613, 78, 168, 3092, 4869, 3953, 182, 69, 73, 830, 82, 619, 17, 19, 11674, 36541, 36540, 26, 18169, 136, 130, 98, 636, 112, 169, 3086, 2640, 2379, 148, 723, 133, 261, 39, 812, 110, 25, 2395, 36542];
+objective = 217;
+----------
+%%%mzn-stat: nodes=9009
+%%%mzn-stat: solveTime=24.1
+%%%mzn-stat: objective=219
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4172
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suss*by
+% mna*ms*cuz
+% owns**yutz
+% sogs**arty
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4080, 14, 613, 78, 168, 3092, 4869, 3953, 182, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 130, 98, 636, 112, 169, 3086, 3388, 2379, 3876, 723, 133, 261, 39, 812, 110, 25, 2395, 36542];
+objective = 219;
+----------
+%%%mzn-stat: nodes=9019
+%%%mzn-stat: solveTime=24.17
+%%%mzn-stat: objective=220
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4175
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suss*by
+% mna*ms*saz
+% owns**whiz
+% sogs**eely
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4080, 14, 613, 78, 877, 3092, 4688, 3953, 1148, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 130, 98, 636, 112, 169, 3086, 3388, 2379, 3876, 723, 127, 261, 39, 3802, 110, 25, 1128, 36542];
+objective = 220;
+----------
+%%%mzn-stat: nodes=9029
+%%%mzn-stat: solveTime=24.25
+%%%mzn-stat: objective=221
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4178
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suss*fy
+% mna*ms*saz
+% owns**whiz
+% sogs**eely
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4080, 36, 613, 78, 877, 3092, 4688, 3953, 1148, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 130, 98, 636, 112, 169, 3086, 3388, 2379, 3876, 723, 127, 261, 39, 3802, 110, 25, 5646, 36542];
+objective = 221;
+----------
+%%%mzn-stat: nodes=9276
+%%%mzn-stat: solveTime=24.63
+%%%mzn-stat: objective=225
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4279
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suks*fy
+% mna*ms*saz
+% owns**whiz
+% sogs**eely
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4062, 36, 613, 78, 877, 3092, 4688, 3953, 1148, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 130, 98, 636, 112, 169, 3086, 3388, 2368, 3876, 723, 127, 261, 39, 3802, 110, 25, 5646, 36542];
+objective = 225;
+----------
+%%%mzn-stat: nodes=9276
+%%%mzn-stat: solveTime=24.65
+%%%mzn-stat: objective=227
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4280
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suks*fy
+% mna*ms*saz
+% owns**whiz
+% soth**eely
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4062, 36, 613, 78, 877, 3092, 4688, 3984, 1148, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 140, 98, 636, 109, 169, 3086, 3388, 2368, 3876, 723, 127, 261, 39, 3802, 110, 25, 5646, 36542];
+objective = 227;
+----------
+%%%mzn-stat: nodes=9297
+%%%mzn-stat: solveTime=24.83
+%%%mzn-stat: objective=228
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4282
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suks*fy
+% mna*ms*saz
+% owns**whiz
+% soth**eely
+% ava*ps*dev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4062, 36, 613, 78, 877, 3092, 4688, 3984, 1148, 69, 103, 185, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 140, 98, 636, 109, 169, 3086, 3388, 2368, 3876, 723, 127, 261, 39, 3801, 110, 25, 5646, 36542];
+objective = 228;
+----------
+%%%mzn-stat: nodes=9320
+%%%mzn-stat: solveTime=24.97
+%%%mzn-stat: objective=232
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4284
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suks*fy
+% mna*ms*saz
+% owns**quiz
+% soth**idly
+% ava*ps*dev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4062, 36, 613, 78, 877, 3092, 3436, 3984, 1961, 69, 103, 185, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 140, 98, 636, 109, 169, 3086, 3388, 2368, 3876, 723, 104, 261, 39, 4052, 110, 25, 5646, 36542];
+objective = 232;
+----------
+%%%mzn-stat: nodes=9342
+%%%mzn-stat: solveTime=25.13
+%%%mzn-stat: objective=234
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4287
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*syvers*z
+% yu*suks*fy
+% mna*ms*saz
+% owly**quiz
+% soba**idly
+% ava*ps*dev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 16620, 137, 4062, 36, 613, 78, 877, 3091, 3436, 3944, 1961, 69, 103, 185, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 83, 98, 636, 133, 169, 3086, 3388, 2368, 3876, 723, 104, 261, 39, 4052, 110, 25, 5646, 36542];
+objective = 234;
+----------
+%%%mzn-stat: nodes=9359
+%%%mzn-stat: solveTime=25.23
+%%%mzn-stat: objective=238
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4289
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*fy
+% mna*rs*saz
+% owly**quiz
+% soba**idly
+% ava*ps*dev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 36, 613, 107, 877, 3091, 3436, 3944, 1961, 69, 103, 185, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 83, 98, 628, 133, 169, 3088, 3388, 2368, 3876, 708, 104, 261, 39, 4052, 110, 25, 5646, 36542];
+objective = 238;
+----------
+%%%mzn-stat: nodes=9365
+%%%mzn-stat: solveTime=25.32
+%%%mzn-stat: objective=239
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4291
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*fy
+% mna*ds*saz
+% owly**quiz
+% soba**idly
+% ava*ps*dev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 36, 613, 24, 877, 3091, 3436, 3944, 1961, 69, 103, 185, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 83, 98, 628, 133, 169, 3087, 3388, 2368, 3876, 708, 104, 261, 39, 4052, 110, 25, 5646, 36542];
+objective = 239;
+----------
+%%%mzn-stat: nodes=9611
+%%%mzn-stat: solveTime=25.5
+%%%mzn-stat: objective=240
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4403
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*fy
+% mna*ds*saz
+% owly**quiz
+% sofa**idly
+% ava*ps*dev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 36, 613, 24, 877, 3091, 3436, 3951, 1961, 69, 103, 185, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 91, 98, 628, 133, 169, 3087, 3388, 2368, 3876, 708, 104, 261, 39, 4052, 110, 25, 5646, 36542];
+objective = 240;
+----------
+%%%mzn-stat: nodes=9868
+%%%mzn-stat: solveTime=25.71
+%%%mzn-stat: objective=242
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4514
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*ny
+% mna*ds*sez
+% owly**jeez
+% sofa**sizy
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 86, 613, 24, 888, 3091, 2045, 3951, 3867, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 91, 98, 628, 133, 169, 3087, 3388, 2368, 3876, 708, 57, 261, 39, 3762, 110, 25, 10963, 36542];
+objective = 242;
+----------
+%%%mzn-stat: nodes=9883
+%%%mzn-stat: solveTime=25.78
+%%%mzn-stat: objective=243
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4516
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*ny
+% mna*ds*sez
+% owly**jeez
+% sofa**gazy
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 86, 613, 24, 888, 3091, 2045, 3951, 1529, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 91, 98, 628, 133, 169, 3087, 3388, 2368, 3876, 708, 55, 261, 39, 3742, 110, 25, 10963, 36542];
+objective = 243;
+----------
+%%%mzn-stat: nodes=9896
+%%%mzn-stat: solveTime=25.89
+%%%mzn-stat: objective=245
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4526
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*ny
+% mna*ds*bez
+% owly**jeez
+% sofa**gazy
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 86, 613, 24, 98, 3091, 2045, 3951, 1529, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 91, 98, 628, 133, 169, 3087, 3388, 2368, 3876, 708, 55, 261, 39, 305, 110, 25, 10963, 36542];
+objective = 245;
+----------
+%%%mzn-stat: nodes=9929
+%%%mzn-stat: solveTime=25.99
+%%%mzn-stat: objective=246
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4527
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*ny
+% mna*ds*fez
+% owly**jeez
+% sofa**gazy
+% ava*ps*rev
+% ne*cuke*da
+% s*owlers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 86, 613, 24, 296, 3091, 2045, 3951, 1529, 69, 103, 830, 82, 799, 17, 19, 11669, 36541, 36540, 26, 18169, 136, 91, 98, 628, 133, 169, 3087, 3388, 2368, 3876, 708, 55, 261, 39, 1294, 110, 25, 10963, 36542];
+objective = 246;
+----------
+%%%mzn-stat: nodes=10153
+%%%mzn-stat: solveTime=26.29
+%%%mzn-stat: objective=250
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4629
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*ny
+% mna*ds*fez
+% owly**jeez
+% sofa**gazy
+% ava*ps*rev
+% ne*yuke*da
+% s*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 86, 613, 24, 296, 3091, 2045, 3951, 1529, 69, 103, 830, 82, 4862, 17, 19, 1148, 36541, 36540, 26, 18169, 136, 91, 14, 628, 133, 1102, 3087, 3380, 2368, 3876, 708, 55, 261, 39, 1294, 110, 25, 10963, 36542];
+objective = 250;
+----------
+%%%mzn-stat: nodes=10172
+%%%mzn-stat: solveTime=26.41
+%%%mzn-stat: objective=251
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4632
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*ny
+% gnu*ds*fez
+% owly**jeez
+% move**gazy
+% ava*ps*rev
+% te*yuke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 86, 359, 24, 296, 3091, 2045, 2770, 1529, 69, 103, 830, 114, 4862, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 628, 134, 1102, 3087, 3380, 2368, 3876, 708, 55, 261, 39, 1294, 110, 25, 10963, 36542];
+objective = 251;
+----------
+%%%mzn-stat: nodes=10172
+%%%mzn-stat: solveTime=26.45
+%%%mzn-stat: objective=254
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4634
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sowens*z
+% yu*zeks*fy
+% gnu*ds*fez
+% owly**jeez
+% move**gazy
+% ava*ps*rev
+% te*yuke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15795, 137, 4884, 36, 359, 24, 296, 3091, 2045, 2770, 1529, 69, 103, 830, 114, 4862, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 628, 134, 1102, 3087, 3380, 2368, 3876, 708, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 254;
+----------
+%%%mzn-stat: nodes=10433
+%%%mzn-stat: solveTime=26.93
+%%%mzn-stat: objective=256
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4752
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zinc*fy
+% gnu*ds*fez
+% owly**jeez
+% move**gazy
+% ava*ps*rev
+% te*yuke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4898, 36, 359, 24, 296, 3091, 2045, 2770, 1529, 69, 103, 830, 114, 4862, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 1102, 3097, 3380, 2374, 3876, 720, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 256;
+----------
+%%%mzn-stat: nodes=10448
+%%%mzn-stat: solveTime=27.03
+%%%mzn-stat: objective=257
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4753
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zinc*fy
+% gnu*dg*fez
+% owly**jeez
+% move**gazy
+% ava*ps*rev
+% te*yuke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4898, 36, 359, 21, 296, 3091, 2045, 2770, 1529, 69, 103, 830, 114, 4862, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 1102, 3097, 3380, 2372, 3876, 720, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 257;
+----------
+%%%mzn-stat: nodes=10462
+%%%mzn-stat: solveTime=27.14
+%%%mzn-stat: objective=259
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4754
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zinc*fy
+% gnu*dg*fez
+% owly**jeez
+% move**gazy
+% ava*ks*rev
+% te*yuke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4898, 36, 359, 21, 296, 3091, 2045, 2770, 1529, 69, 63, 830, 114, 4862, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 1102, 3097, 2272, 2372, 3876, 720, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 259;
+----------
+%%%mzn-stat: nodes=10471
+%%%mzn-stat: solveTime=27.23
+%%%mzn-stat: objective=263
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4756
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zinc*fy
+% gnu*dg*fez
+% owly**jeez
+% move**gazy
+% ava*ks*rev
+% te*juke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4898, 36, 359, 21, 296, 3091, 2045, 2770, 1529, 69, 63, 830, 114, 2105, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 466, 3097, 2272, 2372, 3876, 720, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 263;
+----------
+%%%mzn-stat: nodes=10490
+%%%mzn-stat: solveTime=27.35
+%%%mzn-stat: objective=264
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4761
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zimb*fy
+% gnu*de*fez
+% owly**jeez
+% move**gazy
+% ava*ks*rev
+% te*juke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4897, 36, 359, 20, 296, 3091, 2045, 2770, 1529, 69, 63, 830, 114, 2105, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 466, 3097, 2272, 2370, 3876, 719, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 264;
+----------
+%%%mzn-stat: nodes=10502
+%%%mzn-stat: solveTime=27.41
+%%%mzn-stat: objective=267
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4762
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zimb*fy
+% gnu*de*fez
+% owly**jeez
+% move**gazy
+% ava*js*rev
+% te*juke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4897, 36, 359, 20, 296, 3091, 2045, 2770, 1529, 69, 57, 830, 114, 2105, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 466, 3097, 2106, 2370, 3876, 719, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 267;
+----------
+%%%mzn-stat: nodes=10888
+%%%mzn-stat: solveTime=27.97
+%%%mzn-stat: objective=268
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4939
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zimb*fy
+% gnu*me*fez
+% owly**jeez
+% move**gazy
+% ava*js*rev
+% te*juke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4897, 36, 359, 75, 296, 3091, 2045, 2770, 1529, 69, 57, 830, 114, 2105, 17, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 466, 3098, 2106, 2370, 3876, 719, 55, 261, 39, 1294, 110, 25, 5791, 36542];
+objective = 268;
+----------
+%%%mzn-stat: nodes=11000
+%%%mzn-stat: solveTime=28.19
+%%%mzn-stat: objective=272
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4993
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zimb*my
+% gnu*me*riz
+% owly**jizz
+% move**gazy
+% ava*js*lev
+% te*juke*na
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4897, 80, 359, 75, 843, 3091, 2074, 2770, 1529, 69, 57, 550, 114, 2105, 81, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 466, 3098, 2106, 2370, 3876, 719, 55, 261, 39, 3533, 110, 25, 10441, 36542];
+objective = 272;
+----------
+%%%mzn-stat: nodes=11006
+%%%mzn-stat: solveTime=28.27
+%%%mzn-stat: objective=275
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4994
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zimb*my
+% gnu*me*fiz
+% owly**jizz
+% move**gazy
+% ava*js*rev
+% te*juke*na
+% a*bakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4897, 80, 359, 75, 306, 3091, 2074, 2770, 1529, 69, 57, 830, 114, 2105, 81, 1, 1148, 36541, 36533, 26, 18169, 136, 4435, 14, 611, 134, 466, 3098, 2106, 2370, 3876, 719, 55, 261, 39, 1324, 110, 25, 10441, 36542];
+objective = 275;
+----------
+%%%mzn-stat: nodes=11021
+%%%mzn-stat: solveTime=28.43
+%%%mzn-stat: objective=276
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=4998
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymology*
+% z*sixers*z
+% yu*zimb*my
+% gnu*me*fiz
+% owly**jizz
+% move**gazy
+% ava*js*rev
+% te*juke*na
+% a*fakers*s
+% *zymurgic*
+Words weights = [36539, 26, 15294, 137, 4897, 80, 359, 75, 306, 3091, 2074, 2770, 1529, 69, 57, 830, 114, 2105, 81, 1, 5660, 36541, 36533, 26, 18169, 136, 4435, 36, 611, 134, 466, 3098, 2106, 2370, 3876, 719, 55, 261, 39, 1324, 110, 25, 10441, 36542];
+objective = 276;
+----------
+%%%mzn-stat: nodes=13102
+%%%mzn-stat: solveTime=30.42
+%%%mzn-stat: objective=277
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=6005
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% z*sixain*z
+% yu*zimb*my
+% gnu*mb*fiz
+% owly**jizz
+% move**gazy
+% ava*js*rev
+% te*juke*na
+% a*fakers*s
+% *zymurgic*
+Words weights = [36538, 26, 15293, 137, 4897, 80, 359, 74, 306, 3091, 2074, 2770, 1529, 69, 57, 830, 114, 2105, 81, 1, 5660, 36541, 36533, 26, 18169, 136, 4435, 36, 611, 134, 466, 3098, 2106, 1497, 3876, 836, 55, 261, 6, 1324, 110, 13, 10441, 36542];
+objective = 277;
+----------
+%%%mzn-stat: nodes=13396
+%%%mzn-stat: solveTime=30.93
+%%%mzn-stat: objective=289
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=6144
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% z*sixain*z
+% yu*zizz*my
+% gnu*me*fiz
+% owly**jizz
+% move**gazy
+% ava*js*rev
+% te*juke*na
+% a*fakers*s
+% *zymurgic*
+Words weights = [36538, 26, 15293, 137, 4906, 80, 359, 75, 306, 3091, 2074, 2770, 1529, 69, 57, 830, 114, 2105, 81, 1, 5660, 36541, 36533, 26, 18169, 136, 4435, 36, 611, 134, 466, 3098, 2106, 1528, 3876, 843, 55, 261, 6, 1324, 110, 13, 10441, 36542];
+objective = 289;
+----------
+%%%mzn-stat: nodes=13529
+%%%mzn-stat: solveTime=31.05
+%%%mzn-stat: objective=290
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=6205
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% z*sixain*z
+% ya*zizz*my
+% gem*me*fiz
+% odyl**jizz
+% minx**gazy
+% ana*js*rev
+% te*juke*na
+% a*fakers*s
+% *zymurgic*
+Words weights = [36538, 26, 15293, 133, 4906, 80, 345, 75, 306, 2990, 2074, 2688, 1529, 43, 57, 830, 114, 2105, 81, 1, 5660, 36541, 36533, 26, 199, 136, 2815, 36, 611, 72, 466, 3098, 2106, 1528, 3876, 843, 55, 261, 6, 1324, 110, 13, 10441, 36542];
+objective = 290;
+----------
+%%%mzn-stat: nodes=15333
+%%%mzn-stat: solveTime=33.19
+%%%mzn-stat: objective=292
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7070
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% z*sixain*z
+% ya*zizz*my
+% gem*me*fiz
+% odah**jizz
+% mize**gazy
+% ane*js*rev
+% te*juke*na
+% a*fakers*s
+% *zymurgic*
+Words weights = [36538, 26, 15293, 133, 4906, 80, 345, 75, 306, 2981, 2074, 2704, 1529, 45, 57, 830, 114, 2105, 81, 1, 5660, 36541, 36533, 26, 199, 136, 2612, 36, 611, 41, 466, 3098, 2106, 1528, 3876, 843, 55, 261, 6, 1324, 110, 13, 10441, 36542];
+objective = 292;
+----------
+%%%mzn-stat: nodes=15561
+%%%mzn-stat: solveTime=33.6
+%%%mzn-stat: objective=295
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7172
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% z*sixain*z
+% ya*zizz*my
+% gem*me*fiz
+% odah**jizz
+% mize**gazy
+% any*js*rev
+% te*juke*na
+% a*fakers*s
+% *zymurgic*
+Words weights = [36538, 26, 15293, 133, 4906, 80, 345, 75, 306, 2981, 2074, 2704, 1529, 49, 57, 830, 114, 2105, 81, 1, 5660, 36541, 36533, 26, 199, 136, 2613, 36, 611, 41, 466, 3098, 2106, 1528, 3876, 843, 55, 261, 6, 1324, 110, 13, 10441, 36542];
+objective = 295;
+----------
+%%%mzn-stat: nodes=15568
+%%%mzn-stat: solveTime=33.71
+%%%mzn-stat: objective=296
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7174
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% z*sixain*z
+% ya*zizz*fy
+% gem*me*fiz
+% odah**jizz
+% mize**gazy
+% any*js*rev
+% te*juke*da
+% a*bakers*s
+% *zymurgic*
+Words weights = [36538, 26, 15293, 133, 4906, 36, 345, 75, 306, 2981, 2074, 2704, 1529, 49, 57, 830, 114, 2105, 17, 1, 1148, 36541, 36533, 26, 199, 136, 2613, 14, 611, 41, 466, 3098, 2106, 1528, 3876, 843, 55, 261, 6, 1324, 110, 13, 5976, 36542];
+objective = 296;
+----------
+%%%mzn-stat: nodes=16052
+%%%mzn-stat: solveTime=34.17
+%%%mzn-stat: objective=298
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7415
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% ag*zizz*fy
+% ham*me*fiz
+% izar**jizz
+% mize**gazy
+% any*js*rev
+% hg*juke*da
+% i*bakers*s
+% *zymurgic*
+Words weights = [36538, 13, 15293, 2, 4906, 36, 386, 75, 306, 2011, 2074, 2704, 1529, 49, 57, 830, 42, 2105, 17, 9, 1148, 36541, 17979, 26, 6621, 136, 2613, 14, 611, 106, 466, 3098, 2106, 1528, 3876, 843, 55, 261, 6, 1324, 110, 13, 5976, 36542];
+objective = 298;
+----------
+%%%mzn-stat: nodes=16076
+%%%mzn-stat: solveTime=34.25
+%%%mzn-stat: objective=300
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7429
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% ag*zizz*fy
+% ham*me*fiz
+% izar**jizz
+% mize**gazy
+% any*ks*rev
+% hg*juke*da
+% i*mazers*s
+% *zymurgic*
+Words weights = [36538, 13, 15293, 2, 4906, 36, 386, 75, 306, 2011, 2074, 2704, 1529, 49, 63, 830, 42, 2105, 17, 9, 10106, 36541, 17979, 26, 6621, 136, 2613, 80, 611, 106, 466, 3098, 2277, 1528, 3876, 843, 55, 261, 6, 1324, 110, 13, 5976, 36542];
+objective = 300;
+----------
+%%%mzn-stat: nodes=16315
+%%%mzn-stat: solveTime=34.57
+%%%mzn-stat: objective=302
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7542
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% ag*zizz*fy
+% ham*me*fiz
+% izar**jizz
+% mize**gazy
+% any*ko*rev
+% hg*jura*da
+% i*pazazz*s
+% *hamulose*
+Words weights = [36538, 13, 15293, 2, 4906, 36, 386, 75, 306, 2011, 2074, 2704, 1529, 49, 62, 830, 42, 2110, 17, 9, 11980, 14021, 17979, 26, 6621, 136, 2613, 99, 611, 106, 466, 3098, 2277, 1528, 3053, 843, 55, 78, 6, 1324, 140, 13, 5976, 36542];
+objective = 302;
+----------
+%%%mzn-stat: nodes=16767
+%%%mzn-stat: solveTime=35.28
+%%%mzn-stat: objective=303
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7748
+%%%mzn-stat: peakMem=41
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% ag*zizz*fy
+% ham*me*fiz
+% izar**jizz
+% maze**gazy
+% aby*ko*rev
+% ho*jura*da
+% i*pazazz*s
+% *hamulose*
+Words weights = [36538, 13, 15293, 2, 4906, 36, 386, 75, 306, 2011, 2074, 2612, 1529, 8, 62, 830, 46, 2110, 17, 9, 11980, 14021, 17979, 26, 6615, 136, 2613, 99, 611, 106, 466, 3098, 2277, 1528, 3053, 843, 55, 78, 6, 1324, 140, 13, 5976, 36542];
+objective = 303;
+----------
+%%%mzn-stat: nodes=17221
+%%%mzn-stat: solveTime=35.7
+%%%mzn-stat: objective=305
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7950
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% ag*zizz*fy
+% ham*my*fiz
+% izar**jazz
+% maze**sizy
+% aby*ko*rev
+% ho*jura*da
+% i*pazazz*s
+% *hamulose*
+Words weights = [36538, 13, 15293, 2, 4906, 36, 386, 80, 306, 2011, 2039, 2612, 3867, 8, 62, 830, 46, 2110, 17, 9, 11980, 14021, 17979, 26, 6615, 136, 2613, 99, 611, 106, 466, 3098, 2277, 1529, 3053, 843, 57, 78, 6, 1264, 140, 13, 5976, 36542];
+objective = 305;
+----------
+%%%mzn-stat: nodes=17231
+%%%mzn-stat: solveTime=35.78
+%%%mzn-stat: objective=306
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=7953
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% am*zizz*fy
+% hoh*my*fiz
+% izar**jazz
+% mize**sizy
+% any*ko*rev
+% hg*jura*da
+% i*pazazz*s
+% *hamulose*
+Words weights = [36538, 13, 15293, 5, 4906, 36, 420, 80, 306, 2011, 2039, 2704, 3867, 49, 62, 830, 42, 2110, 17, 9, 11980, 14021, 17979, 26, 10653, 136, 1775, 99, 611, 106, 466, 3098, 2277, 1529, 3053, 843, 57, 78, 6, 1264, 140, 13, 5976, 36542];
+objective = 306;
+----------
+%%%mzn-stat: nodes=18188
+%%%mzn-stat: solveTime=36.61
+%%%mzn-stat: objective=309
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=8402
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% am*zizz*fy
+% hoh*my*fiz
+% izar**jazz
+% mize**sizy
+% any*ko*rev
+% hg*zupa*da
+% i*pazazz*s
+% *papulose*
+Words weights = [36538, 13, 15293, 5, 4906, 36, 420, 80, 306, 2011, 2039, 2704, 3867, 49, 62, 830, 42, 4919, 17, 9, 11980, 21943, 17979, 26, 10653, 136, 1775, 99, 611, 106, 1134, 3098, 2277, 1529, 3045, 843, 57, 78, 6, 1264, 140, 13, 5976, 36542];
+objective = 309;
+----------
+%%%mzn-stat: nodes=19548
+%%%mzn-stat: solveTime=37.9
+%%%mzn-stat: objective=310
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=9057
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% am*zizz*fy
+% hoh*my*fiz
+% izar**jazz
+% mize**sizy
+% any*za*rev
+% hg*bema*da
+% i*pazazz*s
+% *pagehood*
+Words weights = [36538, 13, 15293, 5, 4906, 36, 420, 80, 306, 2011, 2039, 2704, 3867, 49, 138, 830, 42, 324, 17, 9, 11980, 21748, 17979, 26, 10653, 136, 1775, 99, 611, 106, 81, 3098, 4891, 1529, 108, 843, 57, 78, 6, 1264, 139, 13, 5976, 36542];
+objective = 310;
+----------
+%%%mzn-stat: nodes=19777
+%%%mzn-stat: solveTime=38.02
+%%%mzn-stat: objective=311
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=9170
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% am*zizz*fy
+% hoh*my*fiz
+% izar**jazz
+% mize**sizy
+% any*za*rev
+% hg*nema*da
+% i*bezazz*s
+% *wifehood*
+Words weights = [36538, 13, 15293, 5, 4906, 36, 420, 80, 306, 2011, 2039, 2704, 3867, 49, 138, 830, 42, 2864, 17, 9, 1587, 35868, 17979, 26, 10653, 136, 1775, 12, 611, 106, 649, 3098, 4891, 1529, 108, 843, 57, 78, 6, 1264, 139, 13, 5976, 36542];
+objective = 311;
+----------
+%%%mzn-stat: nodes=21297
+%%%mzn-stat: solveTime=38.86
+%%%mzn-stat: objective=314
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=9918
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% am*zizz*fy
+% hoh*my*fiz
+% izar**jazz
+% mize**sizy
+% any*zs*rev
+% hg*zeta*da
+% i*bezazz*s
+% *pinewood*
+Words weights = [36538, 13, 15293, 5, 4906, 36, 420, 80, 306, 2011, 2039, 2704, 3867, 49, 140, 830, 42, 4890, 17, 9, 1587, 22901, 17979, 26, 10653, 136, 1775, 12, 611, 106, 1142, 3098, 4891, 1529, 4027, 843, 57, 78, 6, 1264, 139, 13, 5976, 36542];
+objective = 314;
+----------
+%%%mzn-stat: nodes=21832
+%%%mzn-stat: solveTime=39.43
+%%%mzn-stat: objective=316
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=10168
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+% *zymogram*
+% m*sixain*z
+% am*zizz*fy
+% hoh*my*fiz
+% izar**jazz
+% mize**sizy
+% any*zs*rev
+% hg*zeta*da
+% i*bezazz*s
+% *pekepoos*
+Words weights = [36538, 13, 15293, 5, 4906, 36, 420, 80, 306, 2011, 2039, 2704, 3867, 49, 140, 830, 42, 4890, 17, 9, 1587, 22350, 17979, 26, 10653, 136, 1775, 11, 611, 106, 1140, 3098, 4891, 1529, 4025, 843, 57, 78, 6, 1264, 139, 13, 5976, 36542];
+objective = 316;
+----------
+%%%mzn-stat: nodes=29835
+%%%mzn-stat: solveTime=56.74
+%%%mzn-stat: objective=316
+%%%mzn-stat: objectiveBound=787
+%%%mzn-stat: failures=14083
+%%%mzn-stat: peakMem=42
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=50
+%%%mzn-stat-end

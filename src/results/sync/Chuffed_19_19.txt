@@ -1,0 +1,98 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=709
+%%%mzn-stat: flatIntConstraints=881
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=4.27771
+%%%mzn-stat-end
+
+% tour**csc*putz*spaz
+% else*oary*afro*lutz
+% feel*crip*roan*oyez
+% foresee*hap*tegu***
+% ***voltaelectricity
+% foveal*kranz**thraw
+% ulu*kazi*stag**yeti
+% geld*roms**riza*sus
+% ingo**obese*nidi***
+% otorhinolaryngology
+% ***tori*ennui**luau
+% sop*yens**emes*stir
+% mnas**gapy*prim*elt
+% eyrir**tragi*bendys
+% expressionlessly***
+% ***khan*ego*thammuz
+% izba*fixt*gyri*pogy
+% goor*edit*goop*holm
+% goos*sese*sup**snye
+Words weights = [4333, 161, 3409, 4005, 1170, 2964, 36, 2531, 1300, 782, 3579, 3101, 9552, 389, 4188, 2792, 6238, 5048, 9686, 1010, 2156, 4024, 4811, 1541, 3602, 3576, 935, 1984, 6463, 2886, 283, 4320, 2895, 2502, 914, 4806, 1174, 4036, 2706, 1508, 3351, 250, 3019, 9889, 1503, 826, 2191, 240, 25819, 2012, 1360, 1715, 3285, 1640, 1145, 1639, 1865, 1641, 3782, 933, 3940, 4184, 3483, 3915, 448, 3014, 6539, 3032, 1151, 4472, 10467, 3139, 112, 13609, 1021, 23282, 3941, 429, 827, 16954, 457, 8055, 1500, 29442, 8805, 923, 343, 3714, 1098, 4001, 3765, 19572, 81, 869, 4776, 17957, 1205, 6838, 1005, 827, 19429, 1126, 9905, 10368, 9218, 11053, 1145, 23115, 357, 12, 2626, 23537, 1974, 11267, 804, 1996, 6642, 2746, 66, 4161, 3543, 4428, 1154, 4870, 10979, 4921];
+objective = 622;
+----------
+% idem**cha*shan*kyak
+% momi*bhel*toyo*hump
+% psis*oink*reen*amah
+% stratum*oho*lewd***
+% ***carboxypeptidase
+% schtik*gymps**galax
+% tho*thud*nyet**rune
+% oaks*anoa**samp*mks
+% icky**bahut*peag***
+% counterdemonstrates
+% ***coda*mpret**whew
+% ora*whim**owed*pyro
+% giro**dato*eras*mir
+% azido**arras*bedyed
+% maldistributions***
+% ***blow*mys*mitosis
+% puja*loft*papa*myth
+% udal*vela*eyes*oleo
+% yowl*erub*xed**simp
+Words weights = [1958, 142, 3796, 2279, 2734, 343, 4338, 1923, 3363, 3004, 3510, 108, 24659, 697, 2387, 247, 14593, 4046, 3550, 965, 4231, 2959, 3650, 2961, 137, 3698, 612, 1955, 670, 3160, 74, 702, 6074, 4679, 718, 4683, 3087, 3420, 1581, 865, 1198, 608, 636, 489, 1402, 1402, 402, 636, 15695, 3378, 2454, 3132, 2816, 4421, 4512, 1248, 3014, 4852, 1211, 1097, 3848, 1980, 9174, 2993, 804, 1026, 1588, 3576, 1002, 1178, 4325, 173, 469, 10396, 4101, 16985, 4122, 986, 700, 2953, 232, 8882, 1652, 27085, 10072, 397, 11360, 2542, 307, 408, 55, 26579, 1943, 1012, 3055, 24716, 4322, 973, 418, 1213, 11012, 76, 629, 25468, 4531, 6386, 598, 6062, 1079, 747, 3774, 13367, 1526, 4912, 1130, 107, 9703, 4100, 39, 3702, 2806, 2007, 521, 1240, 9359, 3816];
+objective = 634;
+----------
+% icon**ump*edhs*haha
+% calo*brei*azym*azon
+% eten*ratu*rope*coxy
+% despoil*pal*hawk***
+% ***antimilitaristic
+% entrez*yukky**gawsy
+% maw*skee*yeps**wabs
+% beef*aula**yech*sat
+% over**pogos*char***
+% gedankenexperiments
+% ***soap*noule**pooh
+% tot*owse**data*pyic
+% huer**yapp*talk*ash
+% appui**stope*laquei
+% rhabdomyosarcoma***
+% ***ashy*myc*eyewash
+% bets*ilka*hype*wino
+% uvas*naoi*aged*aryl
+% dene*grin*kos**lyes
+Words weights = [1956, 1012, 1144, 1730, 564, 480, 239, 238, 1219, 3483, 3613, 768, 6638, 744, 1771, 108, 5362, 10971, 3618, 592, 3872, 4807, 4573, 312, 202, 4797, 872, 3085, 7116, 631, 158, 3942, 6412, 3310, 985, 3093, 863, 3415, 1908, 4778, 4131, 62, 426, 9191, 9157, 2223, 189, 635, 8659, 340, 1972, 1944, 4712, 4476, 2836, 39, 185, 909, 1669, 520, 2537, 1951, 2858, 4215, 121, 599, 6183, 3076, 272, 3015, 10052, 4204, 944, 11139, 1431, 21663, 3027, 667, 445, 3158, 496, 6520, 10216, 8453, 6160, 598, 10811, 1123, 516, 12373, 41, 19717, 94, 737, 3328, 7661, 4018, 11705, 224, 4418, 5153, 1116, 4473, 22548, 1572, 8745, 144, 620, 1079, 386, 2136, 11155, 3524, 13036, 78, 4397, 6425, 68, 428, 2001, 9785, 3940, 49, 825, 8418, 1867];
+objective = 648;
+----------
+% hard**dui*ears*muzz
+% alee*cwms*pyic*evoe
+% atap*repo*ouph*ease
+% foresee*gan*ewer***
+% ***rhabdomyosarcoma
+% mnemes*enami**farer
+% yom*semi*sync**trek
+% once*defi**toey*ads
+% pyet**limpa*cray***
+% electrocardiographs
+% ***hied*myopy**prey
+% dad*exit**spar*pomp
+% eric**cory*omer*kph
+% blahs**reign*bogeys
+% telespectroscope***
+% ***ahem*ert*hoelike
+% chap*abba*chik*abac
+% ouzo*goer*hums*demo
+% zhos*exes*abb**axed
+Words weights = [1752, 219, 1120, 2812, 87, 821, 3415, 1233, 192, 3523, 3076, 1121, 9552, 335, 1234, 2223, 10444, 2881, 3072, 1123, 3769, 4101, 4347, 3025, 894, 4283, 13, 3414, 5345, 778, 126, 1823, 6166, 3348, 171, 1241, 4001, 3300, 1202, 752, 3023, 521, 992, 7699, 1868, 2470, 55, 266, 11812, 630, 5, 641, 3, 3082, 1623, 1924, 907, 4892, 1240, 5, 225, 1719, 6164, 883, 158, 105, 6389, 176, 433, 3498, 2862, 930, 78, 4351, 1218, 4350, 3803, 969, 924, 5630, 832, 6834, 2755, 15227, 2860, 1012, 4281, 4318, 91, 8310, 1976, 21129, 109, 792, 4824, 8283, 31, 6990, 77, 3005, 8283, 430, 7836, 4950, 1652, 8217, 261, 20478, 260, 1104, 3613, 15185, 4778, 6638, 1029, 3065, 7285, 1949, 1152, 2619, 4229, 2136, 1139, 175, 9384, 1137];
+objective = 653;
+----------
+%%%mzn-stat: nSolutions=4
+%%%mzn-stat-end

@@ -1,0 +1,351 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=779
+%%%mzn-stat: flatIntConstraints=951
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=3.29563
+%%%mzn-stat-end
+
+% scat**fab*pour*raca
+% eale*gobo*arna*agar
+% scab*ueys*nary*marc
+% earbash*cha*iamb***
+% ***acanthocephalans
+% bidden*aedes**cabal
+% ule*dorp*sane**saga
+% bibb*sial**ecce*cab
+% baal**bleak*haaf***
+% adrenocorticotropic
+% ***baba*eerie**rach
+% dah*bags**stre*byte
+% obey**eaus*osar*eas
+% wrath**ideal*gebels
+% dipterocarpaceae***
+% ***ryal*lea*ardency
+% rabi*geal*came*gala
+% unau*gibe*haar*adit
+% naam*scar*ehs**hate
+Words weights = [3725, 276, 3334, 3440, 1116, 1618, 179, 37, 3720, 4424, 2844, 2582, 7646, 142, 1948, 5, 1614, 121, 1401, 1009, 1018, 3700, 3678, 346, 3823, 1132, 130, 240, 1008, 1719, 3, 242, 2806, 3442, 173, 252, 4043, 548, 2970, 1126, 3069, 227, 10793, 4491, 6628, 646, 3663, 539, 1125, 3439, 1530, 567, 1492, 4441, 1558, 1720, 30, 2818, 3724, 241, 1764, 3782, 1286, 1038, 858, 551, 4513, 12, 43, 80, 2290, 1778, 79, 16876, 391, 29279, 16, 637, 404, 11067, 683, 7518, 3350, 21302, 6537, 8, 16752, 3683, 4, 1980, 2377, 26997, 1851, 66, 3777, 17795, 2222, 650, 718, 1214, 3128, 1, 10183, 7708, 1448, 7603, 136, 7640, 581, 226, 3492, 20234, 1414, 1408, 16, 3, 6829, 2823, 135, 2825, 4487, 682, 53, 3888, 1632, 4784];
+objective = 545;
+----------
+% scat**fab*pour*raca
+% eale*gobo*arna*abac
+% scab*ueys*nary*mabe
+% earbash*cha*iamb***
+% ***acanthocephalans
+% bidden*aedes**cabal
+% ule*dorp*sand**syli
+% bibb*sial**eide*eat
+% baal**blaes*tiar***
+% adrenocorticotropic
+% ***baba*daman**nada
+% dop*bags**abed*gill
+% iure**etna*asap*nep
+% scalp**renal*yantra
+% cholesterolaemia***
+% ***whoa*dap*cadeaux
+% caba*lwei*afar*viny
+% azan*dels*cade*utas
+% woad*odah*ads**suit
+Words weights = [3725, 276, 3334, 3440, 1116, 1618, 179, 3, 3720, 4424, 2844, 2544, 7646, 142, 1948, 5, 1614, 121, 1401, 1009, 1018, 3699, 4100, 346, 3823, 1159, 228, 240, 989, 4234, 3, 242, 2226, 2823, 207, 252, 7, 1569, 2008, 1223, 186, 651, 8187, 7718, 19309, 290, 4689, 178, 3606, 549, 2534, 34, 4546, 237, 904, 552, 4474, 4726, 2981, 13, 4060, 3782, 1286, 963, 137, 551, 4513, 3074, 78, 80, 2290, 3341, 79, 16876, 391, 7855, 16, 637, 757, 11067, 683, 8870, 3350, 21302, 9520, 8, 16752, 4043, 243, 1980, 2321, 16457, 1851, 269, 137, 17795, 3846, 447, 718, 1214, 2435, 277, 10183, 7045, 2791, 7603, 198, 6238, 581, 226, 3114, 20234, 3604, 10850, 4, 14, 6709, 70, 130, 2831, 4497, 4440, 9, 3902, 1444, 4767];
+objective = 548;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% amp*shod**bras*alba
+% yean**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% spaz*plan*afar*came
+% albe*lari*bass*ikat
+% cyan*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 41, 3812, 475, 83, 4794, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 4005, 3263, 34, 567, 84, 2322, 288, 1968, 822, 86, 889, 1, 346, 1063, 232, 863, 1175, 4279, 2644, 776, 850, 255, 3111, 4, 17866, 3148, 16482, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 576;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% amp*shod**bras*alba
+% yean**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% spaz*plan*afar*came
+% hebe*lari*bass*ikat
+% hwan*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 41, 3812, 475, 83, 4794, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 4005, 3263, 34, 567, 1781, 2322, 288, 1968, 1938, 86, 889, 1, 346, 1063, 232, 891, 1175, 4279, 2644, 763, 850, 255, 3111, 4, 17866, 3148, 16482, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 580;
+----------
+% abac**pus*dada*baba
+% mete*bola*egos*ayah
+% meal*erub*cauk*ouds
+% oppidan*baa*boob***
+% ***aeromagnetically
+% ipecac*atman**abaya
+% nas*fact*alod**simp
+% fyce*thio**lamb*cep
+% reak**ocrea*baas***
+% adrenocorticotropic
+% ***debt*aalii**lama
+% bag*baal**scab*arak
+% abas**wadi*asap*age
+% clean**audad*baases
+% hendecasyllabics***
+% ***dwam*ked*acaters
+% amah*maze*odah*exon
+% balu*izar*skee*rima
+% aals*seps*eld**stab
+Words weights = [3, 802, 831, 242, 2652, 423, 1157, 232, 2615, 1211, 601, 3075, 17178, 79, 437, 33, 8281, 541, 14, 644, 1254, 100, 3848, 1473, 4225, 2310, 141, 3493, 6480, 241, 3, 883, 2, 2309, 81, 240, 3720, 156, 4, 4578, 186, 17, 1769, 557, 1074, 951, 1107, 499, 121, 108, 2612, 2981, 1242, 265, 2011, 3872, 3552, 2, 3775, 244, 4023, 118, 4559, 246, 4, 314, 6828, 9, 580, 192, 2946, 1481, 36, 2779, 1161, 21844, 878, 647, 653, 1963, 683, 1452, 7186, 4508, 300, 1010, 10054, 2286, 1134, 14267, 3065, 7606, 49, 269, 1960, 6312, 61, 374, 16, 1188, 3089, 199, 2571, 6062, 649, 517, 591, 1571, 687, 86, 3102, 1764, 3958, 881, 77, 2299, 6756, 1241, 80, 2538, 4517, 3600, 22, 4778, 1436, 3922];
+objective = 581;
+----------
+% abac**pus*dada*baba
+% mete*bola*egos*ayah
+% meal*erub*cauk*ouds
+% oppidan*baa*boob***
+% ***aeromagnetically
+% ipecac*atman**abaya
+% nas*fact*alod**simp
+% fyce*thio**lamb*cep
+% reak**ocrea*baas***
+% adrenocorticotropic
+% ***debt*aalii**lama
+% bag*baal**scab*arak
+% abas**wadi*asap*age
+% clean**audad*baases
+% hendecasyllabics***
+% ***dwam*ked*acaters
+% amah*pace*odah*exon
+% balu*izar*skee*rima
+% aals*zeds*eld**stab
+Words weights = [3, 802, 831, 242, 2652, 423, 1157, 232, 2615, 1211, 601, 3075, 17178, 79, 437, 33, 8281, 541, 14, 644, 1254, 100, 3848, 1473, 4225, 2310, 141, 3493, 6480, 241, 3, 883, 2, 2309, 81, 240, 3720, 156, 4, 4578, 186, 17, 1769, 557, 1074, 951, 1107, 499, 121, 108, 3103, 2981, 1242, 265, 2011, 3872, 3552, 2, 4881, 244, 4023, 118, 4559, 246, 4, 314, 6828, 9, 580, 192, 2946, 1481, 36, 2779, 1161, 21844, 878, 647, 653, 1963, 683, 1482, 7186, 4508, 300, 1010, 10054, 2286, 131, 14267, 3065, 7606, 49, 269, 1960, 6312, 61, 374, 16, 1188, 3089, 199, 2571, 6062, 649, 517, 591, 1571, 687, 86, 3102, 1764, 3958, 881, 77, 2299, 6756, 1241, 80, 2538, 4517, 3600, 22, 4778, 1436, 3922];
+objective = 582;
+----------
+% abac**pus*dada*baba
+% mete*bola*egos*ayah
+% meal*erub*cauk*ouds
+% oppidan*baa*boob***
+% ***aeromagnetically
+% ipecac*atman**abaya
+% nas*fact*alod**simp
+% fyce*thio**lamb*cep
+% reak**ocrea*baas***
+% adrenocorticotropic
+% ***debt*aalii**lama
+% bag*baal**scab*arak
+% abas**wadi*asap*age
+% clean**audad*baases
+% hendecasyllabics***
+% ***dwam*ked*acaters
+% amah*pace*odah*exon
+% balu*izar*skee*rima
+% aals*zeps*eld**stab
+Words weights = [3, 802, 831, 242, 2652, 423, 1157, 232, 2615, 1211, 601, 3075, 17178, 79, 437, 33, 8281, 541, 14, 644, 1254, 100, 3848, 1473, 4225, 2310, 141, 3493, 6480, 241, 3, 883, 2, 2309, 81, 240, 3720, 156, 4, 4578, 186, 17, 1769, 557, 1074, 951, 1107, 499, 121, 108, 3103, 2981, 1242, 265, 2011, 3872, 3552, 2, 4886, 244, 4023, 118, 4559, 246, 4, 314, 6828, 9, 580, 192, 2946, 1481, 36, 2779, 1161, 21844, 878, 647, 653, 1963, 683, 1482, 7186, 4508, 300, 1010, 10054, 2286, 134, 14267, 3065, 7606, 49, 269, 1960, 6312, 61, 374, 16, 1188, 3089, 199, 2571, 6062, 649, 517, 591, 1571, 687, 86, 3102, 1764, 3958, 881, 77, 2299, 6756, 1241, 80, 2538, 4517, 3600, 22, 4778, 1436, 3922];
+objective = 583;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% amp*shod**bras*alba
+% yean**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% spaz*plan*afar*came
+% poke*lari*bass*ikat
+% azan*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 41, 3812, 475, 83, 4794, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 4005, 3263, 34, 567, 3289, 2322, 288, 1968, 237, 86, 889, 1, 346, 1063, 232, 921, 1175, 4279, 2644, 788, 850, 255, 3111, 31, 17866, 3148, 16482, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 584;
+----------
+% abac**pus*dada*baba
+% mete*bola*egos*ayah
+% meal*erub*cauk*ouds
+% oppidan*baa*boob***
+% ***aeromagnetically
+% ipecac*atman**abaya
+% nas*fact*alod**simp
+% fyce*thio**lamb*cep
+% reak**ocrea*baas***
+% adrenocorticotropic
+% ***debt*aalii**lama
+% bag*baal**scab*arak
+% abas**wadi*asap*age
+% clean**audad*baases
+% hendecasyllabics***
+% ***dwam*ked*acaters
+% amah*pize*odah*exon
+% balu*icer*skee*rima
+% aals*zeks*eld**stab
+Words weights = [3, 802, 831, 242, 2652, 423, 1157, 232, 2615, 1211, 601, 3075, 17178, 79, 437, 33, 8281, 541, 14, 644, 1254, 100, 3848, 1473, 4225, 2310, 141, 3493, 6480, 241, 3, 883, 2, 2309, 81, 240, 3720, 156, 4, 4578, 186, 17, 1769, 557, 1074, 951, 1107, 499, 121, 108, 3262, 2981, 1242, 265, 1952, 3872, 3552, 2, 4884, 244, 4023, 118, 4559, 246, 4, 314, 6828, 9, 580, 192, 2946, 1481, 36, 2779, 1161, 21844, 878, 647, 653, 1963, 683, 1482, 7186, 4508, 312, 1010, 10054, 2286, 1140, 14267, 3065, 7606, 49, 269, 1960, 6312, 61, 374, 16, 1188, 3089, 199, 2571, 6062, 649, 517, 591, 1571, 687, 86, 3102, 1764, 3958, 881, 77, 2299, 6756, 1241, 80, 2538, 4517, 3600, 22, 4778, 1436, 3922];
+objective = 585;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% amp*shod**bras*alba
+% yean**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% spaz*plan*afar*came
+% haze*lari*bass*ikat
+% exon*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 41, 3812, 475, 83, 4794, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 4005, 3263, 34, 567, 1774, 2322, 288, 1968, 1242, 86, 889, 1, 346, 1063, 232, 890, 1175, 4279, 2644, 751, 850, 255, 3111, 78, 17866, 3148, 16482, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 588;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% amp*shod**bras*alba
+% yean**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% hizz*plan*afar*came
+% ache*lari*bass*ikat
+% jeon*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 41, 3812, 475, 83, 4794, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 1844, 3263, 34, 567, 19, 2322, 288, 1968, 2050, 86, 889, 1, 346, 1063, 232, 385, 1175, 4279, 2644, 440, 850, 255, 3111, 1144, 17866, 3148, 16482, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 591;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% amp*shod**bras*alba
+% yean**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% zizz*plan*afar*came
+% ache*lari*bass*ikat
+% peon*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 41, 3812, 475, 83, 4794, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 4906, 3263, 34, 567, 19, 2322, 288, 1968, 3194, 86, 889, 1, 346, 1063, 232, 1134, 1175, 4279, 2644, 440, 850, 255, 3111, 1144, 17866, 3148, 16482, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 592;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% azo*shod**bras*alba
+% yarr**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% zeal*plan*afar*came
+% zyme*lari*bass*ikat
+% zeas*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 78, 3812, 475, 83, 4783, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 4878, 3263, 34, 567, 4921, 2322, 288, 1968, 4879, 86, 889, 1, 346, 1063, 232, 1154, 1175, 4279, 4876, 275, 850, 255, 3059, 39, 17866, 3148, 21137, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 595;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% azo*shod**bras*alba
+% yarr**goad*ired*eel
+% ardeb**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% zeal*plan*afar*came
+% zyme*lari*bass*ikat
+% zeps*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 78, 3812, 475, 83, 4783, 1613, 1995, 234, 442, 1213, 13369, 977, 1957, 267, 15156, 4878, 3263, 34, 567, 4921, 2322, 288, 1968, 4886, 86, 889, 1, 346, 1063, 232, 1154, 1175, 4279, 4876, 275, 850, 255, 3059, 41, 17866, 3148, 21137, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 597;
+----------
+% bedu**mib*cero*mome
+% imam*aina*haes*udal
+% beni*lana*inch*zarf
+% bugaboo*lar*oath***
+% ***caducibranchiate
+% bhakti*omber**ekkas
+% oil*hurl*sneb**sean
+% blip*mood**guga*sle
+% alga**abies*rami***
+% contradistinguished
+% ***hash*cabal**baba
+% ick*shod**bras*alba
+% than**goad*ired*eel
+% cabob**brava*readds
+% histophysiologic***
+% ***idea*esc*medakas
+% zoic*plan*afar*came
+% zyme*lari*bass*ikat
+% zeps*alec*sha**aahs
+Words weights = [311, 602, 622, 2733, 1976, 63, 1726, 4421, 327, 2314, 1982, 4875, 3291, 533, 2966, 236, 1595, 6549, 2824, 700, 1931, 3926, 3741, 398, 2742, 1686, 905, 92, 24, 3464, 66, 1760, 1401, 242, 442, 3812, 475, 83, 4214, 1613, 1995, 234, 1406, 1213, 13369, 977, 1957, 267, 15156, 4910, 3263, 34, 567, 4921, 2322, 288, 1968, 4886, 86, 889, 1, 346, 1063, 2006, 1154, 1175, 4279, 626, 739, 850, 255, 2119, 451, 17866, 3148, 16763, 291, 818, 108, 646, 62, 6891, 5839, 21453, 4093, 453, 3384, 981, 55, 1073, 963, 1216, 6, 269, 840, 4480, 3824, 18654, 225, 166, 10900, 279, 7649, 3427, 6548, 6620, 340, 22707, 964, 40, 897, 16219, 2001, 79, 689, 75, 4094, 2131, 589, 4105, 2786, 108, 245, 1214, 2204, 3785];
+objective = 599;
+----------
+%%%mzn-stat: initTime=0.491309
+%%%mzn-stat: solveTime=56.8204
+%%%mzn-stat: solutions=15
+%%%mzn-stat: variables=849
+%%%mzn-stat: propagators=880
+%%%mzn-stat: propagations=83951268
+%%%mzn-stat: nodes=1881993
+%%%mzn-stat: failures=940408
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=158
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=15
+%%%mzn-stat-end
